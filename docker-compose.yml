@@ -1,0 +1,42 @@
+volumes:
+  mysql_db:
+  portainer_data:
+  
+services:
+################## MYSQL
+  db:
+    container_name: mysql
+    image: mysql
+    cap_add:
+      - SYS_NICE
+    restart: always
+    environment:
+      - MYSQL_DATABASE=laziot
+      - MYSQL_ROOT_PASSWORD=@Root#1324
+    ports:
+      - 3306:3306
+    volumes:
+      - mysql_db:/var/lib/mysql
+      - ./mysql/querysInit/database.sql:/docker-entrypoint-initdb.d/1.sql
+      - ./mysql/querysInit/insertsCodesDevices.sql:/docker-entrypoint-initdb.d/2.sql
+
+################## MQTT
+  mqtt:
+    container_name: mqtt
+    image: eclipse-mosquitto
+    restart: always
+    volumes: 
+      - ./mqtt/config:/mosquitto/config
+      - ./mqtt/data:/mosquitto/data
+      - ./mqtt/log:/mosquitto/log
+    ports:
+      - 1883:1883
+      - 9001:9001
+      
+################## REDIS
+  redis:
+    container_name: redis
+    image: redis
+    restart: always
+    ports:
+      - 6379:6379

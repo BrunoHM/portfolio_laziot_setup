@@ -1,0 +1,2023 @@
+1667360974: New connection from 172.22.0.1:41996 on port 1883.
+1667360974: New client connected from 172.22.0.1:41996 as mqtt-explorer-30aee6d4 (p2, c1, k60).
+1667361374: mosquitto version 2.0.15 terminating
+1667361374: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1667361395: mosquitto version 2.0.15 starting
+1667361395: Config loaded from /mosquitto/config/mosquitto.conf.
+1667361395: Opening ipv4 listen socket on port 1883.
+1667361395: Opening ipv6 listen socket on port 1883.
+1667361395: mosquitto version 2.0.15 running
+1667361395: New connection from 172.23.0.1:41998 on port 1883.
+1667361395: New client connected from 172.23.0.1:41998 as mqtt-explorer-30aee6d4 (p2, c1, k60).
+1667361523: New connection from 172.23.0.1:42016 on port 1883.
+1667361523: New client connected from 172.23.0.1:42016 as mqtt-explorer-0ee2c074 (p2, c1, k60).
+1667361531: Client mqtt-explorer-30aee6d4 disconnected.
+1667361539: New connection from 172.23.0.1:42018 on port 1883.
+1667361539: New client connected from 172.23.0.1:42018 as mqtt-explorer-7d6316e0 (p2, c1, k60).
+1667361547: New connection from 172.23.0.1:42040 on port 1883.
+1667361548: New client connected from 172.23.0.1:42040 as 486e9bfa-5cb6-49f1-b80b-005a97c2d199 (p2, c1, k60).
+1667361548: New connection from 172.23.0.1:42042 on port 1883.
+1667361548: New client connected from 172.23.0.1:42042 as aab5e2e6-22d7-4fe9-9e0b-c70295a512bf (p2, c1, k60).
+1667361570: Client mqtt-explorer-0ee2c074 disconnected.
+1667361573: New connection from 172.23.0.1:42044 on port 1883.
+1667361573: New client connected from 172.23.0.1:42044 as mqtt-explorer-0ee2c074 (p2, c1, k60).
+1667361621: Client mqtt-explorer-7d6316e0 disconnected.
+1667362213: Client mqtt-explorer-0ee2c074 disconnected.
+1667362869: Client 486e9bfa-5cb6-49f1-b80b-005a97c2d199 closed its connection.
+1667362869: Client aab5e2e6-22d7-4fe9-9e0b-c70295a512bf closed its connection.
+1667363195: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1667436977: mosquitto version 2.0.15 starting
+1667436977: Config loaded from /mosquitto/config/mosquitto.conf.
+1667436977: Opening ipv4 listen socket on port 1883.
+1667436977: Opening ipv6 listen socket on port 1883.
+1667436977: mosquitto version 2.0.15 running
+1667436980: New connection from 172.23.0.1:42682 on port 1883.
+1667436980: New client connected from 172.23.0.1:42682 as mqtt-explorer-30aee6d4 (p2, c1, k60).
+1667437051: New connection from 172.23.0.1:42684 on port 1883.
+1667437051: New client connected from 172.23.0.1:42684 as mqtt-explorer-ed886e33 (p2, c1, k60).
+1667437073: Client mqtt-explorer-ed886e33 disconnected.
+1667437586: New connection from 172.23.0.1:42686 on port 1883.
+1667437586: New client connected from 172.23.0.1:42686 as ESP8266Client (p2, c1, k15).
+1667437909: New connection from 172.23.0.1:42708 on port 1883.
+1667437909: New client connected from 172.23.0.1:42708 as f70bbe0e-c2c1-4aa1-8d2d-173baa9f5b61 (p2, c1, k60).
+1667437910: New connection from 172.23.0.1:42710 on port 1883.
+1667437910: New client connected from 172.23.0.1:42710 as 5b263a11-04ab-4a9f-9f22-0748148de9e6 (p2, c1, k60).
+1667438069: Client ESP8266Client has exceeded timeout, disconnecting.
+1667438159: New connection from 172.23.0.1:42712 on port 1883.
+1667438159: New client connected from 172.23.0.1:42712 as ESP8266Client (p2, c1, k15).
+1667438489: Client ESP8266Client has exceeded timeout, disconnecting.
+1667438583: New connection from 172.23.0.1:42714 on port 1883.
+1667438583: New client connected from 172.23.0.1:42714 as ESP8266Client (p2, c1, k15).
+1667438778: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1667439329: Client ESP8266Client has exceeded timeout, disconnecting.
+1667439364: New connection from 172.23.0.1:42716 on port 1883.
+1667439364: New client connected from 172.23.0.1:42716 as ESP8266Client (p2, c1, k15).
+1667439539: Client ESP8266Client has exceeded timeout, disconnecting.
+1667439581: New connection from 172.23.0.1:42718 on port 1883.
+1667439581: New client connected from 172.23.0.1:42718 as ESP8266Client (p2, c1, k15).
+1667440579: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1667442376: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1667444177: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1667445978: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1667447779: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1667449580: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1667450389: Client ESP8266Client has exceeded timeout, disconnecting.
+1667450418: New connection from 172.23.0.1:42860 on port 1883.
+1667450418: New client connected from 172.23.0.1:42860 as ESP8266Client (p2, c1, k15).
+1667450593: Client ESP8266Client has exceeded timeout, disconnecting.
+1667450625: New connection from 172.23.0.1:42862 on port 1883.
+1667450625: New client connected from 172.23.0.1:42862 as ESP8266Client (p2, c1, k15).
+1667450695: Client ESP8266Client has exceeded timeout, disconnecting.
+1667450719: New connection from 172.23.0.1:42864 on port 1883.
+1667450719: New client connected from 172.23.0.1:42864 as ESP8266Client (p2, c1, k15).
+1667450774: Client mqtt-explorer-30aee6d4 disconnected.
+1667450790: Client f70bbe0e-c2c1-4aa1-8d2d-173baa9f5b61 closed its connection.
+1667450790: Client 5b263a11-04ab-4a9f-9f22-0748148de9e6 closed its connection.
+1667451381: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1667528392: mosquitto version 2.0.15 starting
+1667528392: Config loaded from /mosquitto/config/mosquitto.conf.
+1667528392: Opening ipv4 listen socket on port 1883.
+1667528392: Opening ipv6 listen socket on port 1883.
+1667528392: mosquitto version 2.0.15 running
+1667530193: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1667531994: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1667533795: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1667535596: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1667535696: New connection from 172.23.0.1:55078 on port 1883.
+1667535696: New client connected from 172.23.0.1:55078 as 5541f761-5d80-47fa-b847-7445f44dd0c1 (p2, c1, k60).
+1667535696: New connection from 172.23.0.1:55080 on port 1883.
+1667535697: New client connected from 172.23.0.1:55080 as a273d7a7-22b2-4f21-804b-f78b2c02200d (p2, c1, k60).
+1667535907: Client 5541f761-5d80-47fa-b847-7445f44dd0c1 closed its connection.
+1667535907: Client a273d7a7-22b2-4f21-804b-f78b2c02200d closed its connection.
+1667535912: New connection from 172.23.0.1:55102 on port 1883.
+1667535912: New client connected from 172.23.0.1:55102 as 9f22c6a6-b434-49b3-841d-71ed620f2168 (p2, c1, k60).
+1667535912: New connection from 172.23.0.1:55104 on port 1883.
+1667535913: New client connected from 172.23.0.1:55104 as d875d110-b6b7-4462-8bdb-4e08a2b47bca (p2, c1, k60).
+1667535915: New connection from 172.23.0.1:55106 on port 1883.
+1667535915: New client connected from 172.23.0.1:55106 as mqtt-explorer-30aee6d4 (p2, c1, k60).
+1667536493: Client 9f22c6a6-b434-49b3-841d-71ed620f2168 closed its connection.
+1667536493: Client d875d110-b6b7-4462-8bdb-4e08a2b47bca closed its connection.
+1667537121: New connection from 172.23.0.1:55128 on port 1883.
+1667537122: New client connected from 172.23.0.1:55128 as 415ab553-775d-4a2f-a1e9-2fb40a250c9d (p2, c1, k60).
+1667537122: New connection from 172.23.0.1:55130 on port 1883.
+1667537122: New client connected from 172.23.0.1:55130 as 683c9f0d-05be-40e8-a004-e47b9953a08a (p2, c1, k60).
+1667537242: Client 415ab553-775d-4a2f-a1e9-2fb40a250c9d closed its connection.
+1667537242: Client 683c9f0d-05be-40e8-a004-e47b9953a08a closed its connection.
+1667537248: Client mqtt-explorer-30aee6d4 disconnected.
+1668560995: mosquitto version 2.0.15 starting
+1668560995: Config loaded from /mosquitto/config/mosquitto.conf.
+1668560995: Opening ipv4 listen socket on port 1883.
+1668560995: Opening ipv6 listen socket on port 1883.
+1668560995: mosquitto version 2.0.15 running
+1668561035: New connection from 172.23.0.1:37806 on port 1883.
+1668561035: New client connected from 172.23.0.1:37806 as mqtt-explorer-30aee6d4 (p2, c1, k60).
+1668561186: New connection from 172.23.0.1:37828 on port 1883.
+1668561187: New client connected from 172.23.0.1:37828 as 46cd67cd-979c-4b5c-8420-cbb8c9b96d95 (p2, c1, k60).
+1668561187: New connection from 172.23.0.1:37830 on port 1883.
+1668561187: New client connected from 172.23.0.1:37830 as a0fe2bf1-8a7f-421c-91dd-87217f8c3977 (p2, c1, k60).
+1668561469: Client 46cd67cd-979c-4b5c-8420-cbb8c9b96d95 has exceeded timeout, disconnecting.
+1668561469: Client a0fe2bf1-8a7f-421c-91dd-87217f8c3977 has exceeded timeout, disconnecting.
+1668562796: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668564125: New connection from 172.23.0.1:37856 on port 1883.
+1668564125: New client connected from 172.23.0.1:37856 as 6a1301f8-7cc5-407d-9893-2f0a5779c260 (p2, c1, k60).
+1668564125: New connection from 172.23.0.1:37858 on port 1883.
+1668564125: New client connected from 172.23.0.1:37858 as 6f52ade4-1bf1-4d04-b0e9-66b2008419be (p2, c1, k60).
+1668564398: Client 6a1301f8-7cc5-407d-9893-2f0a5779c260 closed its connection.
+1668564398: Client 6f52ade4-1bf1-4d04-b0e9-66b2008419be closed its connection.
+1668564412: New connection from 172.23.0.1:37880 on port 1883.
+1668564412: New client connected from 172.23.0.1:37880 as 51c2bbf7-5a36-4878-a50e-dcdf457b4b1d (p2, c1, k60).
+1668564412: New connection from 172.23.0.1:37882 on port 1883.
+1668564413: New client connected from 172.23.0.1:37882 as 4d0cc8d2-8198-4ec6-94c2-f9ad2fe902ab (p2, c1, k60).
+1668564505: Client 51c2bbf7-5a36-4878-a50e-dcdf457b4b1d has exceeded timeout, disconnecting.
+1668564505: Client 4d0cc8d2-8198-4ec6-94c2-f9ad2fe902ab has exceeded timeout, disconnecting.
+1668564557: New connection from 172.23.0.1:37904 on port 1883.
+1668564557: New client connected from 172.23.0.1:37904 as 5948b111-046c-4dd9-b0a2-202cf07834ed (p2, c1, k60).
+1668564557: New connection from 172.23.0.1:37906 on port 1883.
+1668564558: New client connected from 172.23.0.1:37906 as bc716052-d536-4ea7-8a02-c1d58a2408d0 (p2, c1, k60).
+1668564585: Client 5948b111-046c-4dd9-b0a2-202cf07834ed closed its connection.
+1668564585: Client bc716052-d536-4ea7-8a02-c1d58a2408d0 closed its connection.
+1668564595: New connection from 172.23.0.1:37928 on port 1883.
+1668564595: New client connected from 172.23.0.1:37928 as 30178a55-d08d-46fb-8a24-9219272f14a5 (p2, c1, k60).
+1668564596: New connection from 172.23.0.1:37930 on port 1883.
+1668564596: New client connected from 172.23.0.1:37930 as 05b25d1b-80b4-4fb7-952c-cfa284aa0471 (p2, c1, k60).
+1668564597: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668564629: Client 30178a55-d08d-46fb-8a24-9219272f14a5 closed its connection.
+1668564629: Client 05b25d1b-80b4-4fb7-952c-cfa284aa0471 closed its connection.
+1668565233: New connection from 172.23.0.1:37952 on port 1883.
+1668565233: New client connected from 172.23.0.1:37952 as 39571608-db1e-4fec-8e2a-fbc4bc01a055 (p2, c1, k60).
+1668565233: New connection from 172.23.0.1:37954 on port 1883.
+1668565233: New client connected from 172.23.0.1:37954 as 491e1ebf-8f91-40bc-aa78-0c9663b6f50d (p2, c1, k60).
+1668565987: Client 39571608-db1e-4fec-8e2a-fbc4bc01a055 has exceeded timeout, disconnecting.
+1668565987: Client 491e1ebf-8f91-40bc-aa78-0c9663b6f50d has exceeded timeout, disconnecting.
+1668566398: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668566839: New connection from 172.23.0.1:37976 on port 1883.
+1668566840: New client connected from 172.23.0.1:37976 as 8650a5d0-e1bd-4cad-9757-fa72623e5b4a (p2, c1, k60).
+1668566840: New connection from 172.23.0.1:37978 on port 1883.
+1668566840: New client connected from 172.23.0.1:37978 as 67a15818-c78e-4be2-84e5-7266fdb21820 (p2, c1, k60).
+1668566920: Client 8650a5d0-e1bd-4cad-9757-fa72623e5b4a closed its connection.
+1668566920: Client 67a15818-c78e-4be2-84e5-7266fdb21820 closed its connection.
+1668566950: New connection from 172.23.0.1:38000 on port 1883.
+1668566951: New client connected from 172.23.0.1:38000 as 9736fce3-d8ea-4986-a7d6-4619a5fcb8f2 (p2, c1, k60).
+1668566951: New connection from 172.23.0.1:38002 on port 1883.
+1668566951: New client connected from 172.23.0.1:38002 as 75f7c1ff-0987-4524-84cc-fa8e64857673 (p2, c1, k60).
+1668568199: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668570000: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668571801: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668573602: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668575403: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668577204: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668577439: Client 9736fce3-d8ea-4986-a7d6-4619a5fcb8f2 closed its connection.
+1668577439: Client 75f7c1ff-0987-4524-84cc-fa8e64857673 closed its connection.
+1668577442: Client mqtt-explorer-30aee6d4 disconnected.
+1668653368: mosquitto version 2.0.15 starting
+1668653368: Config loaded from /mosquitto/config/mosquitto.conf.
+1668653368: Opening ipv4 listen socket on port 1883.
+1668653368: Opening ipv6 listen socket on port 1883.
+1668653368: mosquitto version 2.0.15 running
+1668653388: New connection from 172.23.0.1:48676 on port 1883.
+1668653389: New client connected from 172.23.0.1:48676 as a8dc2009-47e1-48fc-a6c9-d21f8df7e7cd (p2, c1, k60).
+1668653389: New connection from 172.23.0.1:48678 on port 1883.
+1668653389: New client connected from 172.23.0.1:48678 as 5d63c9d8-2601-4578-b470-6c4fd9373de7 (p2, c1, k60).
+1668653390: New connection from 172.23.0.1:48680 on port 1883.
+1668653390: New client connected from 172.23.0.1:48680 as mqtt-explorer-30aee6d4 (p2, c1, k60).
+1668653541: Client a8dc2009-47e1-48fc-a6c9-d21f8df7e7cd has exceeded timeout, disconnecting.
+1668653559: Client 5d63c9d8-2601-4578-b470-6c4fd9373de7 has exceeded timeout, disconnecting.
+1668653591: New connection from 172.23.0.1:48682 on port 1883.
+1668653591: New connection from 172.23.0.1:48684 on port 1883.
+1668653591: New client connected from 172.23.0.1:48684 as a8dc2009-47e1-48fc-a6c9-d21f8df7e7cd (p2, c1, k60).
+1668653685: Client <unknown> has exceeded timeout, disconnecting.
+1668653685: New connection from 172.23.0.1:48688 on port 1883.
+1668653685: New client connected from 172.23.0.1:48688 as 5d63c9d8-2601-4578-b470-6c4fd9373de7 (p2, c1, k60).
+1668653685: Bad client 5d63c9d8-2601-4578-b470-6c4fd9373de7 sending multiple CONNECT messages.
+1668653685: Client 5d63c9d8-2601-4578-b470-6c4fd9373de7 disconnected due to protocol error.
+1668653687: New connection from 172.23.0.1:48690 on port 1883.
+1668653688: New client connected from 172.23.0.1:48690 as 5d63c9d8-2601-4578-b470-6c4fd9373de7 (p2, c1, k60).
+1668654649: Client 5d63c9d8-2601-4578-b470-6c4fd9373de7 closed its connection.
+1668654649: Client a8dc2009-47e1-48fc-a6c9-d21f8df7e7cd closed its connection.
+1668655168: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668656305: New connection from 172.23.0.1:48712 on port 1883.
+1668656305: New client connected from 172.23.0.1:48712 as 47455e61-ccb6-4de5-82a6-784559457627 (p2, c1, k60).
+1668656305: New connection from 172.23.0.1:48714 on port 1883.
+1668656306: New client connected from 172.23.0.1:48714 as ca620d07-c8c9-4566-87cb-dd5de0fce363 (p2, c1, k60).
+1668656500: Client 47455e61-ccb6-4de5-82a6-784559457627 closed its connection.
+1668656500: Client ca620d07-c8c9-4566-87cb-dd5de0fce363 closed its connection.
+1668656506: New connection from 172.23.0.1:48736 on port 1883.
+1668656506: New client connected from 172.23.0.1:48736 as 4abfe1d1-86e7-4b58-9d63-a8893ea45ce4 (p2, c1, k60).
+1668656507: New connection from 172.23.0.1:48738 on port 1883.
+1668656507: New client connected from 172.23.0.1:48738 as 3c5f1f02-79b5-4468-a3a5-b6ff9c65014b (p2, c1, k60).
+1668656612: Client 4abfe1d1-86e7-4b58-9d63-a8893ea45ce4 closed its connection.
+1668656612: Client 3c5f1f02-79b5-4468-a3a5-b6ff9c65014b closed its connection.
+1668656628: New connection from 172.23.0.1:48760 on port 1883.
+1668656628: New client connected from 172.23.0.1:48760 as 4f38aec1-fd1f-43a0-b03f-2884154d1377 (p2, c1, k60).
+1668656628: New connection from 172.23.0.1:48762 on port 1883.
+1668656629: New client connected from 172.23.0.1:48762 as e2ea114f-b6cc-41a4-9eac-4732f8385d7a (p2, c1, k60).
+1668656763: Client mqtt-explorer-30aee6d4 disconnected.
+1668656764: Client 4f38aec1-fd1f-43a0-b03f-2884154d1377 closed its connection.
+1668656764: Client e2ea114f-b6cc-41a4-9eac-4732f8385d7a closed its connection.
+1668656969: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668658770: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668734055: mosquitto version 2.0.15 starting
+1668734055: Config loaded from /mosquitto/config/mosquitto.conf.
+1668734055: Opening ipv4 listen socket on port 1883.
+1668734055: Opening ipv6 listen socket on port 1883.
+1668734055: mosquitto version 2.0.15 running
+1668734194: New connection from 172.23.0.1:52544 on port 1883.
+1668734195: New client connected from 172.23.0.1:52544 as b488c915-ace8-405c-b3b3-99c16858de66 (p2, c1, k60).
+1668734195: New connection from 172.23.0.1:52546 on port 1883.
+1668734195: New client connected from 172.23.0.1:52546 as f9db680c-abbe-4e3e-9978-27c7f92f3492 (p2, c1, k60).
+1668734511: Client b488c915-ace8-405c-b3b3-99c16858de66 closed its connection.
+1668734511: Client f9db680c-abbe-4e3e-9978-27c7f92f3492 closed its connection.
+1668734712: New connection from 172.23.0.1:52608 on port 1883.
+1668734713: New client connected from 172.23.0.1:52608 as dabc850d-959c-45c6-b1e4-f9af77f6e2f5 (p2, c1, k60).
+1668734713: New connection from 172.23.0.1:52610 on port 1883.
+1668734713: New client connected from 172.23.0.1:52610 as 7be4e5d2-6f26-4d94-b430-07adaa2ba260 (p2, c1, k60).
+1668735410: Client 7be4e5d2-6f26-4d94-b430-07adaa2ba260 closed its connection.
+1668735410: Client dabc850d-959c-45c6-b1e4-f9af77f6e2f5 closed its connection.
+1668735777: New connection from 172.23.0.1:52632 on port 1883.
+1668735777: New client connected from 172.23.0.1:52632 as 291ec220-dbfc-4fbb-824a-4fa9ea4f4467 (p2, c1, k60).
+1668735778: New connection from 172.23.0.1:52634 on port 1883.
+1668735778: New client connected from 172.23.0.1:52634 as 98a42aaa-7618-45da-a688-0cc72ad07fc0 (p2, c1, k60).
+1668735855: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668735875: Client 291ec220-dbfc-4fbb-824a-4fa9ea4f4467 closed its connection.
+1668735875: Client 98a42aaa-7618-45da-a688-0cc72ad07fc0 closed its connection.
+1668736075: New connection from 172.23.0.1:52656 on port 1883.
+1668736076: New client connected from 172.23.0.1:52656 as d4e410b6-6956-4bca-88ff-bf731f5f2b9a (p2, c1, k60).
+1668736076: New connection from 172.23.0.1:52658 on port 1883.
+1668736076: New client connected from 172.23.0.1:52658 as 49f82665-fc37-4a82-97a2-b08339efa232 (p2, c1, k60).
+1668736091: Client d4e410b6-6956-4bca-88ff-bf731f5f2b9a closed its connection.
+1668736091: Client 49f82665-fc37-4a82-97a2-b08339efa232 closed its connection.
+1668736253: New connection from 172.23.0.1:52680 on port 1883.
+1668736253: New client connected from 172.23.0.1:52680 as 2afa2afc-6286-40b3-8b14-5431c243f024 (p2, c1, k60).
+1668736253: New connection from 172.23.0.1:52682 on port 1883.
+1668736254: New client connected from 172.23.0.1:52682 as 5df60e1d-2edb-4e1c-a650-a3e6a80b9b5a (p2, c1, k60).
+1668736419: Client 5df60e1d-2edb-4e1c-a650-a3e6a80b9b5a closed its connection.
+1668736419: Client 2afa2afc-6286-40b3-8b14-5431c243f024 closed its connection.
+1668736464: New connection from 172.23.0.1:52704 on port 1883.
+1668736465: New client connected from 172.23.0.1:52704 as 2c5b134e-4335-46ce-9915-aeedb960545c (p2, c1, k60).
+1668736465: New connection from 172.23.0.1:52706 on port 1883.
+1668736465: New client connected from 172.23.0.1:52706 as 0af673ca-e38a-4aec-b9a0-a7b990f32f51 (p2, c1, k60).
+1668736498: Client 2c5b134e-4335-46ce-9915-aeedb960545c closed its connection.
+1668736498: Client 0af673ca-e38a-4aec-b9a0-a7b990f32f51 closed its connection.
+1668736555: New connection from 172.23.0.1:52728 on port 1883.
+1668736555: New client connected from 172.23.0.1:52728 as e5218196-a301-4c04-af5d-a84c5717dc92 (p2, c1, k60).
+1668736556: New connection from 172.23.0.1:52730 on port 1883.
+1668736556: New client connected from 172.23.0.1:52730 as 1a553dbc-26f7-4484-962a-1398a762efef (p2, c1, k60).
+1668736608: Client e5218196-a301-4c04-af5d-a84c5717dc92 closed its connection.
+1668736608: Client 1a553dbc-26f7-4484-962a-1398a762efef closed its connection.
+1668736635: New connection from 172.23.0.1:52752 on port 1883.
+1668736636: New client connected from 172.23.0.1:52752 as 762c0cbd-6f73-4609-b5d3-a1d83939c5d5 (p2, c1, k60).
+1668736636: New connection from 172.23.0.1:52754 on port 1883.
+1668736636: New client connected from 172.23.0.1:52754 as 945f013a-a3e0-4b80-8a14-7e44b971f7de (p2, c1, k60).
+1668737003: Client 762c0cbd-6f73-4609-b5d3-a1d83939c5d5 closed its connection.
+1668737003: Client 945f013a-a3e0-4b80-8a14-7e44b971f7de closed its connection.
+1668737537: New connection from 172.23.0.1:52836 on port 1883.
+1668737538: New client connected from 172.23.0.1:52836 as a750cb8c-4209-4a78-8f8d-3c82f15230c0 (p2, c1, k60).
+1668737538: New connection from 172.23.0.1:52838 on port 1883.
+1668737538: New client connected from 172.23.0.1:52838 as c7b9fbd7-8458-4474-8ba4-d0bd0bd81d81 (p2, c1, k60).
+1668737612: Client c7b9fbd7-8458-4474-8ba4-d0bd0bd81d81 closed its connection.
+1668737612: Client a750cb8c-4209-4a78-8f8d-3c82f15230c0 closed its connection.
+1668737656: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668737662: New connection from 172.23.0.1:52860 on port 1883.
+1668737663: New client connected from 172.23.0.1:52860 as e9edd91a-784c-4191-9ae6-66774067b0d1 (p2, c1, k60).
+1668737663: New connection from 172.23.0.1:52862 on port 1883.
+1668737663: New client connected from 172.23.0.1:52862 as 695ee13a-4be8-407f-b82e-da51d894a957 (p2, c1, k60).
+1668737749: Client 695ee13a-4be8-407f-b82e-da51d894a957 closed its connection.
+1668737749: Client e9edd91a-784c-4191-9ae6-66774067b0d1 closed its connection.
+1668737799: New connection from 172.23.0.1:52904 on port 1883.
+1668737799: New client connected from 172.23.0.1:52904 as 11b1bf87-3355-430c-98eb-ca8f4d9b046a (p2, c1, k60).
+1668737800: New connection from 172.23.0.1:52906 on port 1883.
+1668737800: New client connected from 172.23.0.1:52906 as 6a047ab6-75db-42df-b55d-1dade9285920 (p2, c1, k60).
+1668739457: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668741258: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668741900: Client 11b1bf87-3355-430c-98eb-ca8f4d9b046a closed its connection.
+1668741900: Client 6a047ab6-75db-42df-b55d-1dade9285920 closed its connection.
+1668741912: New connection from 172.23.0.1:52968 on port 1883.
+1668741912: New client connected from 172.23.0.1:52968 as 6cc58a69-1c25-409d-9dbf-a0038859a403 (p2, c1, k60).
+1668741912: New connection from 172.23.0.1:52970 on port 1883.
+1668741912: New client connected from 172.23.0.1:52970 as 363d4203-d257-4c4d-b9fc-991d55bcf92c (p2, c1, k60).
+1668741976: Client 363d4203-d257-4c4d-b9fc-991d55bcf92c closed its connection.
+1668741976: Client 6cc58a69-1c25-409d-9dbf-a0038859a403 closed its connection.
+1668741985: New connection from 172.23.0.1:52992 on port 1883.
+1668741985: New client connected from 172.23.0.1:52992 as 7c7c034f-0c06-450a-8b13-cd2e5d51e04b (p2, c1, k60).
+1668741986: New connection from 172.23.0.1:52994 on port 1883.
+1668741986: New client connected from 172.23.0.1:52994 as 20bb4bfc-e19b-450f-a5cc-c57df0aef25f (p2, c1, k60).
+1668742031: Client 7c7c034f-0c06-450a-8b13-cd2e5d51e04b closed its connection.
+1668742031: Client 20bb4bfc-e19b-450f-a5cc-c57df0aef25f closed its connection.
+1668742067: New connection from 172.23.0.1:53016 on port 1883.
+1668742067: New client connected from 172.23.0.1:53016 as f9fd54a0-5456-4c7a-ac59-db5009201f9e (p2, c1, k60).
+1668742068: New connection from 172.23.0.1:53018 on port 1883.
+1668742068: New client connected from 172.23.0.1:53018 as ef649b11-76e9-4627-bbec-bb4c6cd1da28 (p2, c1, k60).
+1668742291: Client ef649b11-76e9-4627-bbec-bb4c6cd1da28 closed its connection.
+1668742291: Client f9fd54a0-5456-4c7a-ac59-db5009201f9e closed its connection.
+1668742300: New connection from 172.23.0.1:53040 on port 1883.
+1668742300: New client connected from 172.23.0.1:53040 as c7b4e91d-2ae6-4811-ab79-8f3a1add4efc (p2, c1, k60).
+1668742300: New connection from 172.23.0.1:53042 on port 1883.
+1668742300: New client connected from 172.23.0.1:53042 as cf7c945f-aea8-4acb-8034-5e86340d83bc (p2, c1, k60).
+1668742893: Client cf7c945f-aea8-4acb-8034-5e86340d83bc closed its connection.
+1668742893: Client c7b4e91d-2ae6-4811-ab79-8f3a1add4efc closed its connection.
+1668742915: New connection from 172.23.0.1:53064 on port 1883.
+1668742915: New client connected from 172.23.0.1:53064 as 89aecefa-f8fc-4e9c-b8d9-3b8b3b9e2b99 (p2, c1, k60).
+1668742916: New connection from 172.23.0.1:53066 on port 1883.
+1668742916: New client connected from 172.23.0.1:53066 as 3df9c06b-9cb2-4439-bd2b-6548a3f28754 (p2, c1, k60).
+1668742957: Client 3df9c06b-9cb2-4439-bd2b-6548a3f28754 closed its connection.
+1668742957: Client 89aecefa-f8fc-4e9c-b8d9-3b8b3b9e2b99 closed its connection.
+1668742969: New connection from 172.23.0.1:53088 on port 1883.
+1668742970: New client connected from 172.23.0.1:53088 as 548dc0e1-f91d-4a71-9c34-6f8f0947312d (p2, c1, k60).
+1668742970: New connection from 172.23.0.1:53090 on port 1883.
+1668742970: New client connected from 172.23.0.1:53090 as 8c4b5095-2ee7-4780-a0df-21520beeeafa (p2, c1, k60).
+1668743059: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668743060: Client 8c4b5095-2ee7-4780-a0df-21520beeeafa closed its connection.
+1668743060: Client 548dc0e1-f91d-4a71-9c34-6f8f0947312d closed its connection.
+1668743129: New connection from 172.23.0.1:53112 on port 1883.
+1668743130: New client connected from 172.23.0.1:53112 as e526d9f7-fe6d-43ba-bfed-4d1cb01ead7e (p2, c1, k60).
+1668743130: New connection from 172.23.0.1:53114 on port 1883.
+1668743130: New client connected from 172.23.0.1:53114 as b117a875-411c-433c-87d4-6723ae851a09 (p2, c1, k60).
+1668744858: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668746659: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668747140: Client e526d9f7-fe6d-43ba-bfed-4d1cb01ead7e closed its connection.
+1668747140: Client b117a875-411c-433c-87d4-6723ae851a09 closed its connection.
+1668748460: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668817120: mosquitto version 2.0.15 starting
+1668817120: Config loaded from /mosquitto/config/mosquitto.conf.
+1668817120: Opening ipv4 listen socket on port 1883.
+1668817120: Opening ipv6 listen socket on port 1883.
+1668817120: mosquitto version 2.0.15 running
+1668817180: New connection from 172.23.0.1:45808 on port 1883.
+1668817180: New client connected from 172.23.0.1:45808 as mqtt-explorer-30aee6d4 (p2, c1, k60).
+1668817310: New connection from 172.23.0.1:45830 on port 1883.
+1668817311: New client connected from 172.23.0.1:45830 as 7280a7c6-d49c-45c8-9ab2-4c4ac43a8cb7 (p2, c1, k60).
+1668817311: New connection from 172.23.0.1:45832 on port 1883.
+1668817311: New client connected from 172.23.0.1:45832 as 03648eb4-3253-4223-9bad-11d5ebb1f0fd (p2, c1, k60).
+1668817542: Client 7280a7c6-d49c-45c8-9ab2-4c4ac43a8cb7 closed its connection.
+1668817542: Client 03648eb4-3253-4223-9bad-11d5ebb1f0fd closed its connection.
+1668817554: New connection from 172.23.0.1:45858 on port 1883.
+1668817554: New client connected from 172.23.0.1:45858 as e466142e-0aaf-49ae-a0b8-c301c26e5e27 (p2, c1, k60).
+1668817554: New connection from 172.23.0.1:45860 on port 1883.
+1668817555: New client connected from 172.23.0.1:45860 as 5384e16b-a83d-4b74-9782-df75ffdbd65e (p2, c1, k60).
+1668817973: Client e466142e-0aaf-49ae-a0b8-c301c26e5e27 closed its connection.
+1668817973: Client 5384e16b-a83d-4b74-9782-df75ffdbd65e closed its connection.
+1668818165: New connection from 172.23.0.1:45882 on port 1883.
+1668818165: New client connected from 172.23.0.1:45882 as 87b502f6-4334-4ea6-9c7a-10356224554f (p2, c1, k60).
+1668818165: New connection from 172.23.0.1:45884 on port 1883.
+1668818165: New client connected from 172.23.0.1:45884 as 1c0f67e5-545c-49ca-bdc0-a0767a9691fc (p2, c1, k60).
+1668818290: Client 87b502f6-4334-4ea6-9c7a-10356224554f closed its connection.
+1668818290: Client 1c0f67e5-545c-49ca-bdc0-a0767a9691fc closed its connection.
+1668818299: New connection from 172.23.0.1:45906 on port 1883.
+1668818299: New client connected from 172.23.0.1:45906 as 6ff51255-dfa2-4d67-9f60-e4a6bd0e0e8d (p2, c1, k60).
+1668818299: New connection from 172.23.0.1:45908 on port 1883.
+1668818300: New client connected from 172.23.0.1:45908 as 3fd8cde7-9798-4df8-93f3-0681b6e06227 (p2, c1, k60).
+1668818373: Client 6ff51255-dfa2-4d67-9f60-e4a6bd0e0e8d closed its connection.
+1668818373: Client 3fd8cde7-9798-4df8-93f3-0681b6e06227 closed its connection.
+1668818411: New connection from 172.23.0.1:45930 on port 1883.
+1668818411: New client connected from 172.23.0.1:45930 as 0cecf4b0-f125-413d-b7f7-c210ff19e250 (p2, c1, k60).
+1668818411: New connection from 172.23.0.1:45932 on port 1883.
+1668818411: New client connected from 172.23.0.1:45932 as 0aeade7d-32d6-46b5-b17d-f9770594bf46 (p2, c1, k60).
+1668818495: Client 0cecf4b0-f125-413d-b7f7-c210ff19e250 closed its connection.
+1668818495: Client 0aeade7d-32d6-46b5-b17d-f9770594bf46 closed its connection.
+1668818511: New connection from 172.23.0.1:45954 on port 1883.
+1668818511: New client connected from 172.23.0.1:45954 as 143fb3a0-38af-4eb2-b66c-4731a24df04f (p2, c1, k60).
+1668818512: New connection from 172.23.0.1:45956 on port 1883.
+1668818512: New client connected from 172.23.0.1:45956 as 0e802be6-6ea9-425d-9cec-204e86791317 (p2, c1, k60).
+1668818867: Client 143fb3a0-38af-4eb2-b66c-4731a24df04f closed its connection.
+1668818867: Client 0e802be6-6ea9-425d-9cec-204e86791317 closed its connection.
+1668818873: New connection from 172.23.0.1:45978 on port 1883.
+1668818874: New client connected from 172.23.0.1:45978 as 38bd8980-2c44-46a1-9654-d42eaa6f4222 (p2, c1, k60).
+1668818874: New connection from 172.23.0.1:45980 on port 1883.
+1668818874: New client connected from 172.23.0.1:45980 as 46e3b16c-af34-4289-aa91-c01a42be2446 (p2, c1, k60).
+1668818921: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668819062: Client 38bd8980-2c44-46a1-9654-d42eaa6f4222 closed its connection.
+1668819062: Client 46e3b16c-af34-4289-aa91-c01a42be2446 closed its connection.
+1668819070: New connection from 172.23.0.1:46002 on port 1883.
+1668819070: New client connected from 172.23.0.1:46002 as 957cd0aa-1e0e-4ffb-9b95-fdf26e6d69a2 (p2, c1, k60).
+1668819070: New connection from 172.23.0.1:46004 on port 1883.
+1668819071: New client connected from 172.23.0.1:46004 as a825ce40-6c86-4f11-a439-ba40e0618327 (p2, c1, k60).
+1668819800: Client 957cd0aa-1e0e-4ffb-9b95-fdf26e6d69a2 closed its connection.
+1668819800: Client a825ce40-6c86-4f11-a439-ba40e0618327 closed its connection.
+1668820198: New connection from 172.23.0.1:46026 on port 1883.
+1668820199: New client connected from 172.23.0.1:46026 as a19e6fd9-4737-42b8-b3ad-62b2c5180891 (p2, c1, k60).
+1668820199: New connection from 172.23.0.1:46028 on port 1883.
+1668820199: New client connected from 172.23.0.1:46028 as b633e1a5-5609-491b-9374-2bb4030db416 (p2, c1, k60).
+1668820220: Client a19e6fd9-4737-42b8-b3ad-62b2c5180891 closed its connection.
+1668820220: Client b633e1a5-5609-491b-9374-2bb4030db416 closed its connection.
+1668820243: New connection from 172.23.0.1:46050 on port 1883.
+1668820244: New client connected from 172.23.0.1:46050 as 20a5ae52-30af-4de3-a4aa-709e1ebce483 (p2, c1, k60).
+1668820244: New connection from 172.23.0.1:46052 on port 1883.
+1668820244: New client connected from 172.23.0.1:46052 as 4d4c77fb-5c3a-4283-8db5-b47395e23136 (p2, c1, k60).
+1668820345: Client 20a5ae52-30af-4de3-a4aa-709e1ebce483 closed its connection.
+1668820345: Client 4d4c77fb-5c3a-4283-8db5-b47395e23136 closed its connection.
+1668820362: New connection from 172.23.0.1:46074 on port 1883.
+1668820362: New client connected from 172.23.0.1:46074 as 572fec52-73f0-4c3a-9727-a4c2d314c4a1 (p2, c1, k60).
+1668820362: New connection from 172.23.0.1:46076 on port 1883.
+1668820363: New client connected from 172.23.0.1:46076 as 348addbb-751e-44d5-ae1a-b6391436f1b9 (p2, c1, k60).
+1668820486: Client 572fec52-73f0-4c3a-9727-a4c2d314c4a1 closed its connection.
+1668820486: Client 348addbb-751e-44d5-ae1a-b6391436f1b9 closed its connection.
+1668820719: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668820807: New connection from 172.23.0.1:46098 on port 1883.
+1668820808: New client connected from 172.23.0.1:46098 as c1c7f826-1455-4536-8fca-2ab3c8bbeed0 (p2, c1, k60).
+1668820808: New connection from 172.23.0.1:46100 on port 1883.
+1668820808: New client connected from 172.23.0.1:46100 as 1d18aa84-d8ea-410c-95e7-3ed1eb12f084 (p2, c1, k60).
+1668820910: Client c1c7f826-1455-4536-8fca-2ab3c8bbeed0 closed its connection.
+1668820910: Client 1d18aa84-d8ea-410c-95e7-3ed1eb12f084 closed its connection.
+1668820914: Client mqtt-explorer-30aee6d4 closed its connection.
+1668821201: mosquitto version 2.0.15 starting
+1668821201: Config loaded from /mosquitto/config/mosquitto.conf.
+1668821201: Opening ipv4 listen socket on port 1883.
+1668821201: Opening ipv6 listen socket on port 1883.
+1668821201: mosquitto version 2.0.15 running
+1668821251: New connection from 172.23.0.1:52858 on port 1883.
+1668821252: New client connected from 172.23.0.1:52858 as d17beb07-91b1-44ac-b471-d6290aa0924b (p2, c1, k60).
+1668821252: New connection from 172.23.0.1:52860 on port 1883.
+1668821252: New client connected from 172.23.0.1:52860 as 2d38f62e-fd75-4b25-839e-ce548ef58ada (p2, c1, k60).
+1668821265: Client d17beb07-91b1-44ac-b471-d6290aa0924b closed its connection.
+1668821265: Client 2d38f62e-fd75-4b25-839e-ce548ef58ada closed its connection.
+1668823002: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668823513: New connection from 172.23.0.1:52882 on port 1883.
+1668823514: New client connected from 172.23.0.1:52882 as 2e60c1bd-679c-43a6-97a1-a41d26ecd3e3 (p2, c1, k60).
+1668823514: New connection from 172.23.0.1:52884 on port 1883.
+1668823514: New client connected from 172.23.0.1:52884 as f7ca09db-6dc1-4587-86ef-ab5ae590e726 (p2, c1, k60).
+1668823526: Client 2e60c1bd-679c-43a6-97a1-a41d26ecd3e3 closed its connection.
+1668823526: Client f7ca09db-6dc1-4587-86ef-ab5ae590e726 closed its connection.
+1668823533: New connection from 172.23.0.1:52906 on port 1883.
+1668823534: New client connected from 172.23.0.1:52906 as 12abdcd4-d57f-48e8-882f-df6317d52a67 (p2, c1, k60).
+1668823534: New connection from 172.23.0.1:52908 on port 1883.
+1668823534: New client connected from 172.23.0.1:52908 as 137799f6-28a3-4a6c-8d27-205b6a39348b (p2, c1, k60).
+1668823542: Client 12abdcd4-d57f-48e8-882f-df6317d52a67 closed its connection.
+1668823542: Client 137799f6-28a3-4a6c-8d27-205b6a39348b closed its connection.
+1668823564: New connection from 172.23.0.1:52930 on port 1883.
+1668823565: New client connected from 172.23.0.1:52930 as c855e549-b6fc-41fd-8247-a9153f20b9d9 (p2, c1, k60).
+1668823565: New connection from 172.23.0.1:52932 on port 1883.
+1668823565: New client connected from 172.23.0.1:52932 as 2b78c399-5b30-4e50-9bbf-ecdc9a3dc04b (p2, c1, k60).
+1668823567: Client c855e549-b6fc-41fd-8247-a9153f20b9d9 closed its connection.
+1668823567: Client 2b78c399-5b30-4e50-9bbf-ecdc9a3dc04b closed its connection.
+1668824803: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668826604: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668828405: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668828969: New connection from 172.23.0.1:52992 on port 1883.
+1668828969: New client connected from 172.23.0.1:52992 as e641e51e-65df-4289-8de1-3220b6fc9f7c (p2, c1, k60).
+1668828969: New connection from 172.23.0.1:52994 on port 1883.
+1668828969: New client connected from 172.23.0.1:52994 as c85fe838-ede6-49d1-9c02-dc11d400b629 (p2, c1, k60).
+1668828974: Client e641e51e-65df-4289-8de1-3220b6fc9f7c closed its connection.
+1668828974: Client c85fe838-ede6-49d1-9c02-dc11d400b629 closed its connection.
+1668829004: New connection from 172.23.0.1:53016 on port 1883.
+1668829004: New client connected from 172.23.0.1:53016 as ac2218ba-163e-4138-8f76-26d967ded958 (p2, c1, k60).
+1668829004: New connection from 172.23.0.1:53018 on port 1883.
+1668829005: New client connected from 172.23.0.1:53018 as cc174ae1-c007-424b-8d2c-a97a34a82081 (p2, c1, k60).
+1668829007: Client ac2218ba-163e-4138-8f76-26d967ded958 closed its connection.
+1668829007: Client cc174ae1-c007-424b-8d2c-a97a34a82081 closed its connection.
+1668830206: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668832007: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668833808: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668835609: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668836813: New connection from 172.23.0.1:53040 on port 1883.
+1668836813: New client connected from 172.23.0.1:53040 as a95461c2-8db1-4987-81b6-51d80655e029 (p2, c1, k60).
+1668836813: New connection from 172.23.0.1:53042 on port 1883.
+1668836814: New client connected from 172.23.0.1:53042 as e08b1583-c7ec-4825-9923-1940c685f807 (p2, c1, k60).
+1668836819: Client a95461c2-8db1-4987-81b6-51d80655e029 closed its connection.
+1668836819: Client e08b1583-c7ec-4825-9923-1940c685f807 closed its connection.
+1668837410: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668837487: New connection from 172.23.0.1:53066 on port 1883.
+1668837488: New client connected from 172.23.0.1:53066 as afbb8471-aa33-4719-a17f-1636fa5005c0 (p2, c1, k60).
+1668837488: New connection from 172.23.0.1:53068 on port 1883.
+1668837488: New client connected from 172.23.0.1:53068 as cef2792a-69c0-4a78-a65b-8a44d118968e (p2, c1, k60).
+1668837529: Client afbb8471-aa33-4719-a17f-1636fa5005c0 closed its connection.
+1668837529: Client cef2792a-69c0-4a78-a65b-8a44d118968e closed its connection.
+1668839211: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668841012: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668883495: mosquitto version 2.0.15 starting
+1668883495: Config loaded from /mosquitto/config/mosquitto.conf.
+1668883495: Opening ipv4 listen socket on port 1883.
+1668883495: Opening ipv6 listen socket on port 1883.
+1668883495: mosquitto version 2.0.15 running
+1668884519: New connection from 172.23.0.1:44850 on port 1883.
+1668884520: New client connected from 172.23.0.1:44850 as 0d15e71b-eaca-44f1-b129-1728b7100823 (p2, c1, k60).
+1668884520: New connection from 172.23.0.1:44852 on port 1883.
+1668884520: New client connected from 172.23.0.1:44852 as 727530d9-c558-47b4-a03c-20f150a664dd (p2, c1, k60).
+1668884638: New connection from 172.23.0.1:44858 on port 1883.
+1668884638: New client connected from 172.23.0.1:44858 as mqtt-explorer-30aee6d4 (p2, c1, k60).
+1668884957: Client 727530d9-c558-47b4-a03c-20f150a664dd closed its connection.
+1668884957: Client 0d15e71b-eaca-44f1-b129-1728b7100823 closed its connection.
+1668884974: New connection from 172.23.0.1:44892 on port 1883.
+1668884974: New client connected from 172.23.0.1:44892 as 3e7d8ef5-bec2-4476-8255-5af2057ebdc4 (p2, c1, k60).
+1668884974: New connection from 172.23.0.1:44894 on port 1883.
+1668884975: New client connected from 172.23.0.1:44894 as b5b9fedd-1ed3-42b0-bac8-c0ebd88225b5 (p2, c1, k60).
+1668885295: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668885743: mosquitto version 2.0.15 terminating
+1668885743: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668885778: mosquitto version 2.0.15 starting
+1668885778: Config loaded from /mosquitto/config/mosquitto.conf.
+1668885778: Opening ipv4 listen socket on port 1883.
+1668885778: Opening ipv6 listen socket on port 1883.
+1668885778: mosquitto version 2.0.15 running
+1668885778: New connection from 172.18.0.1:44942 on port 1883.
+1668885778: New client connected from 172.18.0.1:44942 as mqtt-explorer-30aee6d4 (p2, c1, k60).
+1668885839: New connection from 172.18.0.1:44982 on port 1883.
+1668885840: New client connected from 172.18.0.1:44982 as bb4fb3c0-8dea-4cb9-9fbd-edf0515fd70f (p2, c1, k60).
+1668885840: New connection from 172.18.0.1:44984 on port 1883.
+1668885840: New client connected from 172.18.0.1:44984 as eba4ce08-350f-4873-b718-e4eaf99a050a (p2, c1, k60).
+1668886103: Client bb4fb3c0-8dea-4cb9-9fbd-edf0515fd70f closed its connection.
+1668886103: Client eba4ce08-350f-4873-b718-e4eaf99a050a closed its connection.
+1668886832: New connection from 172.18.0.1:45032 on port 1883.
+1668886832: New client connected from 172.18.0.1:45032 as 2edcbac7-069d-498d-83b4-487de978fa52 (p2, c1, k60).
+1668886832: New connection from 172.18.0.1:45034 on port 1883.
+1668886833: New client connected from 172.18.0.1:45034 as 6ce4e0fb-66d5-46ce-96ad-181f4325cefc (p2, c1, k60).
+1668886981: Client 2edcbac7-069d-498d-83b4-487de978fa52 closed its connection.
+1668886981: Client 6ce4e0fb-66d5-46ce-96ad-181f4325cefc closed its connection.
+1668887011: New connection from 172.18.0.1:45086 on port 1883.
+1668887011: New client connected from 172.18.0.1:45086 as b51f2548-8a6a-425b-ab0f-b7c76c0beefe (p2, c1, k60).
+1668887012: New connection from 172.18.0.1:45088 on port 1883.
+1668887012: New client connected from 172.18.0.1:45088 as a6476741-c76e-4b77-849c-6586028aa126 (p2, c1, k60).
+1668887098: Client b51f2548-8a6a-425b-ab0f-b7c76c0beefe closed its connection.
+1668887098: Client a6476741-c76e-4b77-849c-6586028aa126 closed its connection.
+1668887105: New connection from 172.18.0.1:45134 on port 1883.
+1668887106: New client connected from 172.18.0.1:45134 as 5ff82521-44a4-4009-af24-f5acb1766d99 (p2, c1, k60).
+1668887106: New connection from 172.18.0.1:45136 on port 1883.
+1668887106: New client connected from 172.18.0.1:45136 as 93f69d03-d2f5-4aca-91bc-d554b6ac8b20 (p2, c1, k60).
+1668887247: Client 5ff82521-44a4-4009-af24-f5acb1766d99 closed its connection.
+1668887247: Client 93f69d03-d2f5-4aca-91bc-d554b6ac8b20 closed its connection.
+1668887255: New connection from 172.18.0.1:45182 on port 1883.
+1668887256: New client connected from 172.18.0.1:45182 as 1e5bb752-6920-481a-b8bb-5845af34252c (p2, c1, k60).
+1668887256: New connection from 172.18.0.1:45184 on port 1883.
+1668887256: New client connected from 172.18.0.1:45184 as 95d0d1b2-7dad-4015-9d43-b9736a7935e1 (p2, c1, k60).
+1668887304: Client 1e5bb752-6920-481a-b8bb-5845af34252c closed its connection.
+1668887304: Client 95d0d1b2-7dad-4015-9d43-b9736a7935e1 closed its connection.
+1668887578: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668888613: Client mqtt-explorer-30aee6d4 disconnected.
+1668889379: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668891180: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668892981: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668914440: mosquitto version 2.0.15 starting
+1668914440: Config loaded from /mosquitto/config/mosquitto.conf.
+1668914440: Opening ipv4 listen socket on port 1883.
+1668914440: Opening ipv6 listen socket on port 1883.
+1668914440: mosquitto version 2.0.15 running
+1668914931: New connection from 172.18.0.1:38570 on port 1883.
+1668914932: New client connected from 172.18.0.1:38570 as 9cb6e840-366c-42ff-835e-441770657e35 (p2, c1, k60).
+1668914932: New connection from 172.18.0.1:38572 on port 1883.
+1668914932: New client connected from 172.18.0.1:38572 as 069c4ef5-00c3-4a44-aa6c-78647d7774b7 (p2, c1, k60).
+1668914942: New connection from 172.18.0.1:38574 on port 1883.
+1668914942: New client connected from 172.18.0.1:38574 as mqtt-explorer-30aee6d4 (p2, c1, k60).
+1668915003: Client 9cb6e840-366c-42ff-835e-441770657e35 closed its connection.
+1668915003: Client 069c4ef5-00c3-4a44-aa6c-78647d7774b7 closed its connection.
+1668916240: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668916272: New connection from 172.18.0.1:38624 on port 1883.
+1668916273: New client connected from 172.18.0.1:38624 as cea5e747-6d62-49f8-8497-74c0fde3db64 (p2, c1, k60).
+1668916273: New connection from 172.18.0.1:38626 on port 1883.
+1668916273: New client connected from 172.18.0.1:38626 as 8e402a30-1c93-4f02-a0b3-2cdd33ad890b (p2, c1, k60).
+1668916519: Client cea5e747-6d62-49f8-8497-74c0fde3db64 closed its connection.
+1668916519: Client 8e402a30-1c93-4f02-a0b3-2cdd33ad890b closed its connection.
+1668916534: New connection from 172.18.0.1:38702 on port 1883.
+1668916535: New client connected from 172.18.0.1:38702 as c1bbdb96-2c94-488e-8de5-134383e4d0e5 (p2, c1, k60).
+1668916535: New connection from 172.18.0.1:38704 on port 1883.
+1668916535: New client connected from 172.18.0.1:38704 as 5f363c4c-8269-41a9-b962-2109f4da16aa (p2, c1, k60).
+1668916600: Client c1bbdb96-2c94-488e-8de5-134383e4d0e5 closed its connection.
+1668916600: Client 5f363c4c-8269-41a9-b962-2109f4da16aa closed its connection.
+1668916633: New connection from 172.18.0.1:38758 on port 1883.
+1668916633: New client connected from 172.18.0.1:38758 as 7d632d7b-e582-4a86-a2a0-c092e03ca234 (p2, c1, k60).
+1668916633: New connection from 172.18.0.1:38760 on port 1883.
+1668916633: New client connected from 172.18.0.1:38760 as d794d896-e4d5-479a-8f6b-4939c0213e4a (p2, c1, k60).
+1668916647: Client d794d896-e4d5-479a-8f6b-4939c0213e4a closed its connection.
+1668916647: Client 7d632d7b-e582-4a86-a2a0-c092e03ca234 closed its connection.
+1668918041: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668919570: New connection from 172.18.0.1:38820 on port 1883.
+1668919570: New client connected from 172.18.0.1:38820 as 934b60b0-a78d-4f8c-b1ca-51b34b5241b1 (p2, c1, k60).
+1668919570: New connection from 172.18.0.1:38822 on port 1883.
+1668919571: New client connected from 172.18.0.1:38822 as 5b56dbbd-02e0-47be-9cdc-5d1ada687300 (p2, c1, k60).
+1668919635: Client 5b56dbbd-02e0-47be-9cdc-5d1ada687300 closed its connection.
+1668919635: Client 934b60b0-a78d-4f8c-b1ca-51b34b5241b1 closed its connection.
+1668919650: New connection from 172.18.0.1:38882 on port 1883.
+1668919651: New client connected from 172.18.0.1:38882 as 9b7c7d68-84a2-4025-9be5-3a81cb14d595 (p2, c1, k60).
+1668919651: New connection from 172.18.0.1:38884 on port 1883.
+1668919651: New client connected from 172.18.0.1:38884 as 7598d63a-da37-4c26-a1e0-19ff8f07f88a (p2, c1, k60).
+1668919783: Client 9b7c7d68-84a2-4025-9be5-3a81cb14d595 closed its connection.
+1668919783: Client 7598d63a-da37-4c26-a1e0-19ff8f07f88a closed its connection.
+1668919793: New connection from 172.18.0.1:38930 on port 1883.
+1668919793: New client connected from 172.18.0.1:38930 as e5b708f9-4359-4af3-a9e8-6403c72a9a5f (p2, c1, k60).
+1668919793: New connection from 172.18.0.1:38932 on port 1883.
+1668919793: New client connected from 172.18.0.1:38932 as 603d88c0-55ab-4bd3-839b-56113c969257 (p2, c1, k60).
+1668919842: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668919850: Client e5b708f9-4359-4af3-a9e8-6403c72a9a5f closed its connection.
+1668919850: Client 603d88c0-55ab-4bd3-839b-56113c969257 closed its connection.
+1668919858: New connection from 172.18.0.1:38978 on port 1883.
+1668919858: New client connected from 172.18.0.1:38978 as 65566e49-233a-42d7-af94-c6336e77c6d8 (p2, c1, k60).
+1668919858: New connection from 172.18.0.1:38980 on port 1883.
+1668919859: New client connected from 172.18.0.1:38980 as 9431266f-3858-444d-aa3e-4e63884ea140 (p2, c1, k60).
+1668919876: Client 65566e49-233a-42d7-af94-c6336e77c6d8 closed its connection.
+1668919876: Client 9431266f-3858-444d-aa3e-4e63884ea140 closed its connection.
+1668919880: New connection from 172.18.0.1:39018 on port 1883.
+1668919880: New client connected from 172.18.0.1:39018 as d7969b39-9dda-4211-b7cd-ba57067af054 (p2, c1, k60).
+1668919881: New connection from 172.18.0.1:39020 on port 1883.
+1668919881: New client connected from 172.18.0.1:39020 as b4565ed5-024c-4c8d-b5de-fa09c95ef92a (p2, c1, k60).
+1668920031: Client d7969b39-9dda-4211-b7cd-ba57067af054 has exceeded timeout, disconnecting.
+1668920031: Client b4565ed5-024c-4c8d-b5de-fa09c95ef92a has exceeded timeout, disconnecting.
+1668920113: New connection from 172.18.0.1:39078 on port 1883.
+1668920113: New client connected from 172.18.0.1:39078 as 9e9199cf-b441-4854-94e2-57137fdbce97 (p2, c1, k60).
+1668920113: New connection from 172.18.0.1:39080 on port 1883.
+1668920114: New client connected from 172.18.0.1:39080 as 06925aca-56a1-41cd-b8dd-ba9b4c142925 (p2, c1, k60).
+1668920192: Client 9e9199cf-b441-4854-94e2-57137fdbce97 closed its connection.
+1668920192: Client 06925aca-56a1-41cd-b8dd-ba9b4c142925 closed its connection.
+1668920199: New connection from 172.18.0.1:39144 on port 1883.
+1668920199: New client connected from 172.18.0.1:39144 as 30157729-f3b0-4dc4-82ea-a9951fda367d (p2, c1, k60).
+1668920199: New connection from 172.18.0.1:39146 on port 1883.
+1668920200: New client connected from 172.18.0.1:39146 as 451def0a-abee-434d-968e-d924947e334c (p2, c1, k60).
+1668920201: Client 30157729-f3b0-4dc4-82ea-a9951fda367d closed its connection.
+1668920201: Client 451def0a-abee-434d-968e-d924947e334c closed its connection.
+1668920207: New connection from 172.18.0.1:39170 on port 1883.
+1668920207: New client connected from 172.18.0.1:39170 as d9c8d5bd-f08b-4a47-bd2c-0ca9d0484552 (p2, c1, k60).
+1668920207: New connection from 172.18.0.1:39172 on port 1883.
+1668920208: New client connected from 172.18.0.1:39172 as 09f14277-420d-43a8-b552-9a3ea00683f9 (p2, c1, k60).
+1668920311: Client d9c8d5bd-f08b-4a47-bd2c-0ca9d0484552 closed its connection.
+1668920311: Client 09f14277-420d-43a8-b552-9a3ea00683f9 closed its connection.
+1668920316: New connection from 172.18.0.1:39210 on port 1883.
+1668920317: New client connected from 172.18.0.1:39210 as 0e84ce2e-2b4f-4938-ba57-859f35ad369c (p2, c1, k60).
+1668920317: New connection from 172.18.0.1:39212 on port 1883.
+1668920317: New client connected from 172.18.0.1:39212 as 80c09a1d-1808-426e-991a-4a29b9d15b0b (p2, c1, k60).
+1668921641: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668923442: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668925243: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668926382: Client 0e84ce2e-2b4f-4938-ba57-859f35ad369c closed its connection.
+1668926382: Client 80c09a1d-1808-426e-991a-4a29b9d15b0b closed its connection.
+1668926383: Client mqtt-explorer-30aee6d4 disconnected.
+1669328586: mosquitto version 2.0.15 starting
+1669328586: Config loaded from /mosquitto/config/mosquitto.conf.
+1669328586: Opening ipv4 listen socket on port 1883.
+1669328586: Opening ipv6 listen socket on port 1883.
+1669328586: mosquitto version 2.0.15 running
+1669330387: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669332188: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669333989: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669335788: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669337589: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669339390: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669341191: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669342992: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669344793: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669346594: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669348395: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669350196: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669351997: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669427438: mosquitto version 2.0.15 starting
+1669427438: Config loaded from /mosquitto/config/mosquitto.conf.
+1669427438: Opening ipv4 listen socket on port 1883.
+1669427438: Opening ipv6 listen socket on port 1883.
+1669427438: mosquitto version 2.0.15 running
+1669429239: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669431040: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669432841: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669434642: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669436443: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669438244: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669440045: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669441846: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669443644: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669482139: mosquitto version 2.0.15 starting
+1669482139: Config loaded from /mosquitto/config/mosquitto.conf.
+1669482139: Opening ipv4 listen socket on port 1883.
+1669482139: Opening ipv6 listen socket on port 1883.
+1669482139: mosquitto version 2.0.15 running
+1669483940: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669485741: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669487542: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669489343: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669491144: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669492945: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669494746: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669496547: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669498348: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669500149: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669501950: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669503751: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669505552: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669507353: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669509152: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669510953: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669512754: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669514555: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669516356: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669518157: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669519958: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669521759: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669523560: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669525361: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669527162: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669528963: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669530764: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669532565: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669534366: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669581582: mosquitto version 2.0.15 starting
+1669581582: Config loaded from /mosquitto/config/mosquitto.conf.
+1669581582: Opening ipv4 listen socket on port 1883.
+1669581582: Opening ipv6 listen socket on port 1883.
+1669581582: mosquitto version 2.0.15 running
+1669583383: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669585184: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669586985: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669588786: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669590587: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669592388: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669594189: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669595990: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669597791: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669599592: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669601393: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669603190: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669604991: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669606792: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669608593: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669610394: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669612195: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669613996: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669615797: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669617598: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669687151: mosquitto version 2.0.15 starting
+1669687151: Config loaded from /mosquitto/config/mosquitto.conf.
+1669687151: Opening ipv4 listen socket on port 1883.
+1669687151: Opening ipv6 listen socket on port 1883.
+1669687151: mosquitto version 2.0.15 running
+1669688952: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669690753: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669692554: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669694355: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669696153: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669697954: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669751891: mosquitto version 2.0.15 starting
+1669751891: Config loaded from /mosquitto/config/mosquitto.conf.
+1669751891: Opening ipv4 listen socket on port 1883.
+1669751891: Opening ipv6 listen socket on port 1883.
+1669751891: mosquitto version 2.0.15 running
+1669753692: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669755493: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669757294: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669759095: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669760896: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669762697: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669764498: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669766298: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669768100: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669769901: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669771701: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669773500: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669775301: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669775982: mosquitto version 2.0.15 terminating
+1669775982: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669847776: mosquitto version 2.0.15 starting
+1669847776: Config loaded from /mosquitto/config/mosquitto.conf.
+1669847776: Opening ipv4 listen socket on port 1883.
+1669847776: Opening ipv6 listen socket on port 1883.
+1669847776: mosquitto version 2.0.15 running
+1669849576: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669851377: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669853178: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669854977: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669856779: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669858579: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669860381: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669862182: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669863983: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669865783: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669867584: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669869385: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669871187: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669872988: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669935346: mosquitto version 2.0.15 starting
+1669935346: Config loaded from /mosquitto/config/mosquitto.conf.
+1669935346: Opening ipv4 listen socket on port 1883.
+1669935346: Opening ipv6 listen socket on port 1883.
+1669935346: mosquitto version 2.0.15 running
+1669937146: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669938947: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669940748: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669942549: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669944350: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669946148: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669947949: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1669948483: mosquitto version 2.0.15 terminating
+1669948483: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670012633: mosquitto version 2.0.15 starting
+1670012633: Config loaded from /mosquitto/config/mosquitto.conf.
+1670012633: Opening ipv4 listen socket on port 1883.
+1670012633: Opening ipv6 listen socket on port 1883.
+1670012633: mosquitto version 2.0.15 running
+1670014433: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670016234: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670018035: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670019836: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670021637: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670023438: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670025239: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670027040: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670028841: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670030640: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670094967: mosquitto version 2.0.15 starting
+1670094967: Config loaded from /mosquitto/config/mosquitto.conf.
+1670094967: Opening ipv4 listen socket on port 1883.
+1670094967: Opening ipv6 listen socket on port 1883.
+1670094967: mosquitto version 2.0.15 running
+1670096767: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670098568: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670100369: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670102170: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670103971: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670105772: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670107573: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670109374: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670111175: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670112976: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670114775: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670116576: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670116652: mosquitto version 2.0.15 terminating
+1670116652: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670124877: mosquitto version 2.0.15 starting
+1670124877: Config loaded from /mosquitto/config/mosquitto.conf.
+1670124877: Opening ipv4 listen socket on port 1883.
+1670124877: Opening ipv6 listen socket on port 1883.
+1670124877: mosquitto version 2.0.15 running
+1670126678: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670128479: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670130280: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670132081: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670133882: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670135683: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670137484: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670139285: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670181894: mosquitto version 2.0.15 starting
+1670181894: Config loaded from /mosquitto/config/mosquitto.conf.
+1670181894: Opening ipv4 listen socket on port 1883.
+1670181894: Opening ipv6 listen socket on port 1883.
+1670181894: mosquitto version 2.0.15 running
+1670183695: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670185496: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670187297: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670189098: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670190899: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670192700: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670194501: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670196302: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670197456: mosquitto version 2.0.15 terminating
+1670197456: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670208756: mosquitto version 2.0.15 starting
+1670208756: Config loaded from /mosquitto/config/mosquitto.conf.
+1670208756: Opening ipv4 listen socket on port 1883.
+1670208756: Opening ipv6 listen socket on port 1883.
+1670208756: mosquitto version 2.0.15 running
+1670210556: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670211217: New connection from 172.18.0.1:43394 on port 1883.
+1670211217: New client connected from 172.18.0.1:43394 as cf0f008d-6ec8-496f-9fa1-337629922b29 (p2, c1, k60).
+1670211313: Client cf0f008d-6ec8-496f-9fa1-337629922b29 closed its connection.
+1670211376: New connection from 172.18.0.1:43420 on port 1883.
+1670211377: New client connected from 172.18.0.1:43420 as cafcada1-6901-4e17-9ba4-bac1b9f5714f (p2, c1, k60).
+1670211377: New connection from 172.18.0.1:43422 on port 1883.
+1670211377: New client connected from 172.18.0.1:43422 as 3a035119-94b7-42f2-b189-f122601c9646 (p2, c1, k60).
+1670211391: Client cafcada1-6901-4e17-9ba4-bac1b9f5714f closed its connection.
+1670211391: Client 3a035119-94b7-42f2-b189-f122601c9646 closed its connection.
+1670211468: New connection from 172.18.0.1:43466 on port 1883.
+1670211469: New client connected from 172.18.0.1:43466 as cac44436-9b6b-409b-ad1b-9edae7c18974 (p2, c1, k60).
+1670211474: Client cac44436-9b6b-409b-ad1b-9edae7c18974 closed its connection.
+1670211498: New connection from 172.18.0.1:43490 on port 1883.
+1670211498: New client connected from 172.18.0.1:43490 as ac914d5a-7396-4d9b-affa-f87698da28cb (p2, c1, k60).
+1670211498: New connection from 172.18.0.1:43492 on port 1883.
+1670211499: New client connected from 172.18.0.1:43492 as 1195ab90-b93b-4fbe-b5bd-043d6c102885 (p2, c1, k60).
+1670211502: Client ac914d5a-7396-4d9b-affa-f87698da28cb closed its connection.
+1670211502: Client 1195ab90-b93b-4fbe-b5bd-043d6c102885 closed its connection.
+1670211756: New connection from 172.18.0.1:43536 on port 1883.
+1670211756: New client connected from 172.18.0.1:43536 as c3211dd1-6ebf-415e-89e5-0aa811ab23f5 (p2, c1, k60).
+1670211757: New connection from 172.18.0.1:43538 on port 1883.
+1670211757: New client connected from 172.18.0.1:43538 as de0c32c1-aec6-4beb-9077-ac737bd3ef76 (p2, c1, k60).
+1670211789: Client de0c32c1-aec6-4beb-9077-ac737bd3ef76 closed its connection.
+1670211789: Client c3211dd1-6ebf-415e-89e5-0aa811ab23f5 closed its connection.
+1670211844: New connection from 172.18.0.1:43564 on port 1883.
+1670211844: New client connected from 172.18.0.1:43564 as 1e031257-89de-40e4-ab12-2df2d753680e (p2, c1, k60).
+1670211844: New connection from 172.18.0.1:43586 on port 1883.
+1670211845: New client connected from 172.18.0.1:43586 as 49386fbe-6c83-4578-97b7-10157b213a82 (p2, c1, k60).
+1670211854: Client 1e031257-89de-40e4-ab12-2df2d753680e closed its connection.
+1670211854: Client 49386fbe-6c83-4578-97b7-10157b213a82 closed its connection.
+1670211938: New connection from 172.18.0.1:43610 on port 1883.
+1670211939: New client connected from 172.18.0.1:43610 as c3626ec8-dc80-4ec4-a038-585edfb5ab91 (p2, c1, k60).
+1670211939: New connection from 172.18.0.1:43632 on port 1883.
+1670211939: New client connected from 172.18.0.1:43632 as c225d744-d07a-47b9-8f5f-5e92f5aa68d3 (p2, c1, k60).
+1670212101: Client c3626ec8-dc80-4ec4-a038-585edfb5ab91 closed its connection.
+1670212101: Client c225d744-d07a-47b9-8f5f-5e92f5aa68d3 closed its connection.
+1670212114: New connection from 172.18.0.1:43656 on port 1883.
+1670212114: New client connected from 172.18.0.1:43656 as 58ac2ee9-6280-4527-85fc-45ec5e7e2449 (p2, c1, k60).
+1670212115: New connection from 172.18.0.1:43658 on port 1883.
+1670212115: New client connected from 172.18.0.1:43658 as 649a15d0-c38a-4057-9120-940ac0cc9fff (p2, c1, k60).
+1670212357: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670214158: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670215677: Client 58ac2ee9-6280-4527-85fc-45ec5e7e2449 closed its connection.
+1670215677: Client 649a15d0-c38a-4057-9120-940ac0cc9fff closed its connection.
+1670215959: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670217757: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670219558: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670221359: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670223160: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670247815: mosquitto version 2.0.15 starting
+1670247815: Config loaded from /mosquitto/config/mosquitto.conf.
+1670247815: Opening ipv4 listen socket on port 1883.
+1670247815: Opening ipv6 listen socket on port 1883.
+1670247815: mosquitto version 2.0.15 running
+1670249615: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670251416: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670253217: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670255018: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670256819: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670258620: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670260421: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670262222: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670264023: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670265824: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670267625: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670269426: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670271227: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670273028: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670274829: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670288599: mosquitto version 2.0.15 starting
+1670288599: Config loaded from /mosquitto/config/mosquitto.conf.
+1670288599: Opening ipv4 listen socket on port 1883.
+1670288599: Opening ipv6 listen socket on port 1883.
+1670288599: mosquitto version 2.0.15 running
+1670290400: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670292201: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670294000: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670295801: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670297603: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670299404: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670299491: mosquitto version 2.0.15 terminating
+1670299491: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670299521: mosquitto version 2.0.15 starting
+1670299521: Config loaded from /mosquitto/config/mosquitto.conf.
+1670299521: Opening ipv4 listen socket on port 1883.
+1670299521: Opening ipv6 listen socket on port 1883.
+1670299521: mosquitto version 2.0.15 running
+1670299608: mosquitto version 2.0.15 terminating
+1670299608: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670299622: mosquitto version 2.0.15 starting
+1670299622: Config loaded from /mosquitto/config/mosquitto.conf.
+1670299622: Opening ipv4 listen socket on port 1883.
+1670299622: Opening ipv6 listen socket on port 1883.
+1670299622: mosquitto version 2.0.15 running
+1670299784: mosquitto version 2.0.15 terminating
+1670299784: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670299801: mosquitto version 2.0.15 starting
+1670299801: Config loaded from /mosquitto/config/mosquitto.conf.
+1670299801: Opening ipv4 listen socket on port 1883.
+1670299801: Opening ipv6 listen socket on port 1883.
+1670299801: mosquitto version 2.0.15 running
+1670299880: mosquitto version 2.0.15 terminating
+1670299880: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670299907: mosquitto version 2.0.15 starting
+1670299907: Config loaded from /mosquitto/config/mosquitto.conf.
+1670299907: Opening ipv4 listen socket on port 1883.
+1670299907: Opening ipv6 listen socket on port 1883.
+1670299907: mosquitto version 2.0.15 running
+1670300377: New connection from 172.21.0.1:59330 on port 1883.
+1670300377: New connection from 172.21.0.1:59332 on port 1883.
+1670300377: New client connected from 172.21.0.1:59332 as mqtt-explorer-30aee6d4 (p2, c1, k60).
+1670300377: New client connected from 172.21.0.1:59330 as b17041cc-8030-4695-a950-fc0e0dfddcf8 (p2, c1, k60).
+1670300377: New connection from 172.21.0.1:59334 on port 1883.
+1670300378: New client connected from 172.21.0.1:59334 as 42ed3602-07be-4ced-baae-44bb3bb8a692 (p2, c1, k60).
+1670301708: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670301736: Client b17041cc-8030-4695-a950-fc0e0dfddcf8 closed its connection.
+1670301736: Client 42ed3602-07be-4ced-baae-44bb3bb8a692 closed its connection.
+1670303001: New connection from 172.21.0.1:59406 on port 1883.
+1670303001: New client connected from 172.21.0.1:59406 as f6e0992f-705e-493f-bc2e-d7cfbae91b46 (p2, c1, k60).
+1670303001: New connection from 172.21.0.1:59408 on port 1883.
+1670303002: New client connected from 172.21.0.1:59408 as 66583879-8348-4879-930e-2ca20682c7e9 (p2, c1, k60).
+1670303138: Client f6e0992f-705e-493f-bc2e-d7cfbae91b46 closed its connection.
+1670303138: Client 66583879-8348-4879-930e-2ca20682c7e9 closed its connection.
+1670303292: New connection from 172.21.0.1:59454 on port 1883.
+1670303292: New client connected from 172.21.0.1:59454 as 15a73c3a-8280-4016-982b-624e7cc13f9a (p2, c1, k60).
+1670303293: New connection from 172.21.0.1:59456 on port 1883.
+1670303293: New client connected from 172.21.0.1:59456 as 76241723-6e1e-410b-ad80-73f3e5811bc1 (p2, c1, k60).
+1670303509: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670303544: Client 15a73c3a-8280-4016-982b-624e7cc13f9a closed its connection.
+1670303544: Client 76241723-6e1e-410b-ad80-73f3e5811bc1 closed its connection.
+1670303551: New connection from 172.21.0.1:59486 on port 1883.
+1670303552: New client connected from 172.21.0.1:59486 as bf34f61f-777d-411a-bf85-fbc1f6dcf71e (p2, c1, k60).
+1670303552: New connection from 172.21.0.1:59488 on port 1883.
+1670303552: New client connected from 172.21.0.1:59488 as 26ee102d-cd8b-4eba-810c-7b053d705dd1 (p2, c1, k60).
+1670303764: Client bf34f61f-777d-411a-bf85-fbc1f6dcf71e has exceeded timeout, disconnecting.
+1670303764: Client 26ee102d-cd8b-4eba-810c-7b053d705dd1 has exceeded timeout, disconnecting.
+1670303775: New connection from 172.21.0.1:59512 on port 1883.
+1670303775: New connection from 172.21.0.1:59510 on port 1883.
+1670303775: New client connected from 172.21.0.1:59512 as 26ee102d-cd8b-4eba-810c-7b053d705dd1 (p2, c1, k60).
+1670303775: New client connected from 172.21.0.1:59510 as bf34f61f-777d-411a-bf85-fbc1f6dcf71e (p2, c1, k60).
+1670303848: Client bf34f61f-777d-411a-bf85-fbc1f6dcf71e closed its connection.
+1670303848: Client 26ee102d-cd8b-4eba-810c-7b053d705dd1 closed its connection.
+1670303860: New connection from 172.21.0.1:59538 on port 1883.
+1670303860: New client connected from 172.21.0.1:59538 as 6052bd7f-b8c1-46a5-a83c-e85460d7efe7 (p2, c1, k60).
+1670303861: New connection from 172.21.0.1:59540 on port 1883.
+1670303861: New client connected from 172.21.0.1:59540 as 18f676d1-175c-494e-939c-90d8d2b31723 (p2, c1, k60).
+1670303935: Client 6052bd7f-b8c1-46a5-a83c-e85460d7efe7 closed its connection.
+1670303935: Client 18f676d1-175c-494e-939c-90d8d2b31723 closed its connection.
+1670304006: New connection from 172.21.0.1:59566 on port 1883.
+1670304007: New client connected from 172.21.0.1:59566 as bca7d185-60e3-4ab4-96bf-6a8f8c5b791d (p2, c1, k60).
+1670304007: New connection from 172.21.0.1:59568 on port 1883.
+1670304007: New client connected from 172.21.0.1:59568 as 1815299f-c448-45ae-b7e8-9b32af7538c9 (p2, c1, k60).
+1670304097: Client bca7d185-60e3-4ab4-96bf-6a8f8c5b791d closed its connection.
+1670304097: Client 1815299f-c448-45ae-b7e8-9b32af7538c9 closed its connection.
+1670304133: New connection from 172.21.0.1:59594 on port 1883.
+1670304133: New client connected from 172.21.0.1:59594 as aaf45904-06ec-460d-b50b-3e2732e86b54 (p2, c1, k60).
+1670304134: New connection from 172.21.0.1:59596 on port 1883.
+1670304134: New client connected from 172.21.0.1:59596 as 325648b0-5206-49da-85d9-1621014e653d (p2, c1, k60).
+1670304217: Client aaf45904-06ec-460d-b50b-3e2732e86b54 closed its connection.
+1670304217: Client 325648b0-5206-49da-85d9-1621014e653d closed its connection.
+1670304225: New connection from 172.21.0.1:59620 on port 1883.
+1670304225: New client connected from 172.21.0.1:59620 as 07919d55-2d93-4eb5-8636-4104f18b657f (p2, c1, k60).
+1670304226: New connection from 172.21.0.1:59622 on port 1883.
+1670304226: New client connected from 172.21.0.1:59622 as 68568703-4bbe-493c-a589-5bb36737e438 (p2, c1, k60).
+1670304273: Client 07919d55-2d93-4eb5-8636-4104f18b657f closed its connection.
+1670304273: Client 68568703-4bbe-493c-a589-5bb36737e438 closed its connection.
+1670304288: New connection from 172.21.0.1:59648 on port 1883.
+1670304288: New client connected from 172.21.0.1:59648 as 353c8a93-ff6d-4215-b5f0-b4f97628823c (p2, c1, k60).
+1670304289: New connection from 172.21.0.1:59650 on port 1883.
+1670304289: New client connected from 172.21.0.1:59650 as ded60ba2-636f-4276-9348-51650b7ffff5 (p2, c1, k60).
+1670305309: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670307111: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670308299: Client ded60ba2-636f-4276-9348-51650b7ffff5 closed its connection.
+1670308299: Client 353c8a93-ff6d-4215-b5f0-b4f97628823c closed its connection.
+1670308912: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670310713: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670312513: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670314314: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670314533: Client mqtt-explorer-30aee6d4 disconnected.
+1670334744: mosquitto version 2.0.15 starting
+1670334744: Config loaded from /mosquitto/config/mosquitto.conf.
+1670334744: Opening ipv4 listen socket on port 1883.
+1670334744: Opening ipv6 listen socket on port 1883.
+1670334744: mosquitto version 2.0.15 running
+1670336544: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670338345: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670340146: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670341947: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670343748: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670345549: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670347350: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670349151: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670350952: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670352753: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670354554: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670356355: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670358156: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670359957: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670360190: New connection from 172.21.0.1:42992 on port 1883.
+1670360190: New client connected from 172.21.0.1:42992 as 91597ad6-f7bc-4b01-bea3-848801858bab (p2, c1, k60).
+1670360191: New connection from 172.21.0.1:42994 on port 1883.
+1670360191: New client connected from 172.21.0.1:42994 as dc290bae-821e-488e-b2c6-02c7b4a5e9b9 (p2, c1, k60).
+1670360274: New connection from 172.21.0.1:42996 on port 1883.
+1670360274: New client connected from 172.21.0.1:42996 as ESP8266Client (p2, c1, k15).
+1670360315: Client ESP8266Client has exceeded timeout, disconnecting.
+1670360350: New connection from 172.21.0.1:42998 on port 1883.
+1670360350: New client connected from 172.21.0.1:42998 as ESP8266Client (p2, c1, k15).
+1670360405: Client ESP8266Client has exceeded timeout, disconnecting.
+1670361758: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670362689: New connection from 172.21.0.1:43040 on port 1883.
+1670362689: New client connected from 172.21.0.1:43040 as mqtt-explorer-30aee6d4 (p2, c1, k60).
+1670362830: New connection from 172.21.0.1:43042 on port 1883.
+1670362830: New client connected from 172.21.0.1:43042 as ESP8266Client (p2, c1, k15).
+1670362883: Client ESP8266Client has exceeded timeout, disconnecting.
+1670363090: New connection from 172.21.0.1:43064 on port 1883.
+1670363090: New client connected from 172.21.0.1:43064 as ESP8266Client (p2, c1, k15).
+1670363177: Client ESP8266Client has exceeded timeout, disconnecting.
+1670363559: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670364591: New connection from 172.21.0.1:43086 on port 1883.
+1670364591: New client connected from 172.21.0.1:43086 as ESP8266Client (p2, c1, k15).
+1670364658: Client 91597ad6-f7bc-4b01-bea3-848801858bab closed its connection.
+1670364658: Client dc290bae-821e-488e-b2c6-02c7b4a5e9b9 closed its connection.
+1670364669: New connection from 172.21.0.1:43112 on port 1883.
+1670364669: New client connected from 172.21.0.1:43112 as 64c4894f-886d-4ff7-bd62-1d9ac58ae20b (p2, c1, k60).
+1670364669: New connection from 172.21.0.1:43114 on port 1883.
+1670364669: New client connected from 172.21.0.1:43114 as 02504e51-8077-4dfb-8b2f-02591ea5849e (p2, c1, k60).
+1670364677: Client ESP8266Client has exceeded timeout, disconnecting.
+1670364688: New connection from 172.21.0.1:43116 on port 1883.
+1670364688: New client connected from 172.21.0.1:43116 as ESP8266Client (p2, c1, k15).
+1670364821: Client 64c4894f-886d-4ff7-bd62-1d9ac58ae20b has exceeded timeout, disconnecting.
+1670364821: Client 02504e51-8077-4dfb-8b2f-02591ea5849e has exceeded timeout, disconnecting.
+1670364869: Client ESP8266Client has exceeded timeout, disconnecting.
+1670364886: New connection from 172.21.0.1:43140 on port 1883.
+1670364886: New connection from 172.21.0.1:43138 on port 1883.
+1670364886: New client connected from 172.21.0.1:43140 as 02504e51-8077-4dfb-8b2f-02591ea5849e (p2, c1, k60).
+1670364886: New client connected from 172.21.0.1:43138 as 64c4894f-886d-4ff7-bd62-1d9ac58ae20b (p2, c1, k60).
+1670364886: New connection from 172.21.0.1:43144 on port 1883.
+1670364886: New client connected from 172.21.0.1:43144 as ESP8266Client (p2, c1, k15).
+1670364893: Client 64c4894f-886d-4ff7-bd62-1d9ac58ae20b closed its connection.
+1670364893: Client 02504e51-8077-4dfb-8b2f-02591ea5849e closed its connection.
+1670364901: New connection from 172.21.0.1:43170 on port 1883.
+1670364902: New client connected from 172.21.0.1:43170 as 544db69a-2e9a-4b1a-8e24-5f33d0003e35 (p2, c1, k60).
+1670364902: New connection from 172.21.0.1:43172 on port 1883.
+1670364902: New client connected from 172.21.0.1:43172 as 8d0653c1-64af-4dcc-837b-fcf35c6186b8 (p2, c1, k60).
+1670364941: Client ESP8266Client has exceeded timeout, disconnecting.
+1670364948: New connection from 172.21.0.1:43174 on port 1883.
+1670364948: New client connected from 172.21.0.1:43174 as ESP8266Client (p2, c1, k15).
+1670365031: Client ESP8266Client has exceeded timeout, disconnecting.
+1670365360: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670365375: New connection from 172.21.0.1:44898 on port 1883.
+1670365375: New client connected from 172.21.0.1:44898 as ESP8266Client (p2, c1, k15).
+1670365445: Client ESP8266Client has exceeded timeout, disconnecting.
+1670365511: New connection from 172.21.0.1:44900 on port 1883.
+1670365511: New client connected from 172.21.0.1:44900 as ESP8266Client (p2, c1, k15).
+1670365649: Client ESP8266Client has exceeded timeout, disconnecting.
+1670365692: New connection from 172.21.0.1:44902 on port 1883.
+1670365692: New client connected from 172.21.0.1:44902 as ESP8266Client (p2, c1, k15).
+1670365733: Client ESP8266Client has exceeded timeout, disconnecting.
+1670365797: New connection from 172.21.0.1:44904 on port 1883.
+1670365797: New client connected from 172.21.0.1:44904 as ESP8266Client (p2, c1, k15).
+1670365940: New connection from 172.21.0.1:45082 on port 1883.
+1670365940: Client ESP8266Client already connected, closing old connection.
+1670365940: New client connected from 172.21.0.1:45082 as ESP8266Client (p2, c1, k15).
+1670365997: Client ESP8266Client has exceeded timeout, disconnecting.
+1670366063: Client mqtt-explorer-30aee6d4 disconnected.
+1670366067: Client 544db69a-2e9a-4b1a-8e24-5f33d0003e35 closed its connection.
+1670366067: Client 8d0653c1-64af-4dcc-837b-fcf35c6186b8 closed its connection.
+1670367161: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670368962: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670370763: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670372564: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670374363: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670374710: New connection from 172.21.0.1:45206 on port 1883.
+1670374711: New client connected from 172.21.0.1:45206 as 485944ac-0fc9-439e-968b-2b675b1e4db4 (p2, c1, k60).
+1670374711: New connection from 172.21.0.1:45208 on port 1883.
+1670374711: New client connected from 172.21.0.1:45208 as 2b73950d-9052-4a63-8a7e-66d9438a968c (p2, c1, k60).
+1670374720: New connection from 172.21.0.1:45210 on port 1883.
+1670374720: New client connected from 172.21.0.1:45210 as mqtt-explorer-30aee6d4 (p2, c1, k60).
+1670375172: New connection from 172.21.0.1:45212 on port 1883.
+1670375172: New client connected from 172.21.0.1:45212 as ESP8266Client (p2, c1, k15).
+1670375191: New connection from 172.21.0.1:45214 on port 1883.
+1670375191: Client ESP8266Client already connected, closing old connection.
+1670375191: New client connected from 172.21.0.1:45214 as ESP8266Client (p2, c1, k15).
+1670375217: Client ESP8266Client has exceeded timeout, disconnecting.
+1670375740: New connection from 172.21.0.1:45216 on port 1883.
+1670375740: New client connected from 172.21.0.1:45216 as ESP8266Client (p2, c1, k15).
+1670375763: Client ESP8266Client has exceeded timeout, disconnecting.
+1670376164: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670376329: New connection from 172.21.0.1:45218 on port 1883.
+1670376329: New client connected from 172.21.0.1:45218 as ESP8266Client (p2, c1, k15).
+1670376342: New connection from 172.21.0.1:45220 on port 1883.
+1670376342: Client ESP8266Client already connected, closing old connection.
+1670376342: New client connected from 172.21.0.1:45220 as ESP8266Client (p2, c1, k15).
+1670376399: Client ESP8266Client has exceeded timeout, disconnecting.
+1670376590: New connection from 172.21.0.1:45242 on port 1883.
+1670376590: New client connected from 172.21.0.1:45242 as ESP8266Client (p2, c1, k15).
+1670376639: Client ESP8266Client has exceeded timeout, disconnecting.
+1670377345: New connection from 172.21.0.1:45508 on port 1883.
+1670377345: New client connected from 172.21.0.1:45508 as ESP8266Client (p2, c1, k15).
+1670377395: Client ESP8266Client has exceeded timeout, disconnecting.
+1670377439: New connection from 172.21.0.1:45510 on port 1883.
+1670377439: New client connected from 172.21.0.1:45510 as ESP8266Client (p2, c1, k15).
+1670377635: Client ESP8266Client has exceeded timeout, disconnecting.
+1670377705: New connection from 172.21.0.1:45512 on port 1883.
+1670377705: New client connected from 172.21.0.1:45512 as ESP8266Client (p2, c1, k15).
+1670377743: Client ESP8266Client has exceeded timeout, disconnecting.
+1670377795: New connection from 172.21.0.1:45514 on port 1883.
+1670377795: New client connected from 172.21.0.1:45514 as ESP8266Client (p2, c1, k15).
+1670377839: New connection from 172.21.0.1:45516 on port 1883.
+1670377839: Client ESP8266Client already connected, closing old connection.
+1670377839: New client connected from 172.21.0.1:45516 as ESP8266Client (p2, c1, k15).
+1670377965: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670377983: Client ESP8266Client has exceeded timeout, disconnecting.
+1670378123: New connection from 172.21.0.1:45518 on port 1883.
+1670378123: New client connected from 172.21.0.1:45518 as ESP8266Client (p2, c1, k15).
+1670378193: Client ESP8266Client has exceeded timeout, disconnecting.
+1670378245: New connection from 172.21.0.1:45522 on port 1883.
+1670378245: New client connected from 172.21.0.1:45522 as ESP8266Client (p2, c1, k15).
+1670378523: Client ESP8266Client has exceeded timeout, disconnecting.
+1670379766: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670379812: New connection from 172.21.0.1:45542 on port 1883.
+1670379812: New client connected from 172.21.0.1:45542 as ESP8266Client (p2, c1, k15).
+1670380251: Client ESP8266Client has exceeded timeout, disconnecting.
+1670380354: New connection from 172.21.0.1:45564 on port 1883.
+1670380354: New client connected from 172.21.0.1:45564 as ESP8266Client (p2, c1, k15).
+1670380419: Client ESP8266Client has exceeded timeout, disconnecting.
+1670380560: New connection from 172.21.0.1:45566 on port 1883.
+1670380560: New client connected from 172.21.0.1:45566 as ESP8266Client (p2, c1, k15).
+1670380623: Client ESP8266Client has exceeded timeout, disconnecting.
+1670380892: New connection from 172.21.0.1:45568 on port 1883.
+1670380892: New client connected from 172.21.0.1:45568 as ESP8266Client (p2, c1, k15).
+1670381007: Client ESP8266Client has exceeded timeout, disconnecting.
+1670381079: New connection from 172.21.0.1:45570 on port 1883.
+1670381079: New client connected from 172.21.0.1:45570 as ESP8266Client (p2, c1, k15).
+1670381115: Client ESP8266Client has exceeded timeout, disconnecting.
+1670381567: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670381586: New connection from 172.21.0.1:45572 on port 1883.
+1670381586: New client connected from 172.21.0.1:45572 as ESP8266Client (p2, c1, k15).
+1670381628: New connection from 172.21.0.1:45574 on port 1883.
+1670381628: Client ESP8266Client already connected, closing old connection.
+1670381628: New client connected from 172.21.0.1:45574 as ESP8266Client (p2, c1, k15).
+1670381667: Client ESP8266Client has exceeded timeout, disconnecting.
+1670381869: New connection from 172.21.0.1:45596 on port 1883.
+1670381869: New client connected from 172.21.0.1:45596 as ESP8266Client (p2, c1, k15).
+1670382051: Client ESP8266Client has exceeded timeout, disconnecting.
+1670382107: New connection from 172.21.0.1:45598 on port 1883.
+1670382107: New client connected from 172.21.0.1:45598 as ESP8266Client (p2, c1, k15).
+1670382129: Client ESP8266Client has exceeded timeout, disconnecting.
+1670382589: Client mqtt-explorer-30aee6d4 disconnected.
+1670382633: New connection from 172.21.0.1:45600 on port 1883.
+1670382633: New client connected from 172.21.0.1:45600 as ESP8266Client (p2, c1, k15).
+1670382635: New connection from 172.21.0.1:45602 on port 1883.
+1670382635: New client connected from 172.21.0.1:45602 as mqtt-explorer-30aee6d4 (p2, c1, k60).
+1670382693: Client ESP8266Client has exceeded timeout, disconnecting.
+1670382837: New connection from 172.21.0.1:45604 on port 1883.
+1670382837: New client connected from 172.21.0.1:45604 as ESP8266Client (p2, c1, k15).
+1670382921: Client ESP8266Client has exceeded timeout, disconnecting.
+1670383060: New connection from 172.21.0.1:45606 on port 1883.
+1670383060: New client connected from 172.21.0.1:45606 as ESP8266Client (p2, c1, k15).
+1670383145: New connection from 172.21.0.1:45608 on port 1883.
+1670383145: Client ESP8266Client already connected, closing old connection.
+1670383145: New client connected from 172.21.0.1:45608 as ESP8266Client (p2, c1, k15).
+1670383203: New connection from 172.21.0.1:45610 on port 1883.
+1670383203: Client ESP8266Client already connected, closing old connection.
+1670383203: New client connected from 172.21.0.1:45610 as ESP8266Client (p2, c1, k15).
+1670383264: New connection from 172.21.0.1:45612 on port 1883.
+1670383264: Client ESP8266Client already connected, closing old connection.
+1670383264: New client connected from 172.21.0.1:45612 as ESP8266Client (p2, c1, k15).
+1670383293: Client ESP8266Client has exceeded timeout, disconnecting.
+1670383368: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670384392: Client 485944ac-0fc9-439e-968b-2b675b1e4db4 closed its connection.
+1670384392: Client 2b73950d-9052-4a63-8a7e-66d9438a968c closed its connection.
+1670385169: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670386970: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670388771: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670389398: Client mqtt-explorer-30aee6d4 disconnected.
+1670449344: mosquitto version 2.0.15 starting
+1670449344: Config loaded from /mosquitto/config/mosquitto.conf.
+1670449344: Opening ipv4 listen socket on port 1883.
+1670449344: Opening ipv6 listen socket on port 1883.
+1670449344: mosquitto version 2.0.15 running
+1670451146: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670452946: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670454224: New connection from 172.21.0.1:54508 on port 1883.
+1670454224: New client connected from 172.21.0.1:54508 as d39f7856-d744-4ee7-bf7e-e94e4b772347 (p2, c1, k60).
+1670454224: New connection from 172.21.0.1:54510 on port 1883.
+1670454225: New client connected from 172.21.0.1:54510 as 2db2aa03-e664-4b13-b0b2-ec2aa5f26a7b (p2, c1, k60).
+1670454748: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670456548: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670458349: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670460151: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670461952: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670462598: New connection from 172.21.0.1:54692 on port 1883.
+1670462598: New client connected from 172.21.0.1:54692 as mqtt-explorer-30aee6d4 (p2, c1, k60).
+1670462609: New connection from 172.21.0.1:54694 on port 1883.
+1670462609: New client connected from 172.21.0.1:54694 as ESP8266Client (p2, c1, k15).
+1670462635: Client ESP8266Client has exceeded timeout, disconnecting.
+1670462768: New connection from 172.21.0.1:54696 on port 1883.
+1670462768: New client connected from 172.21.0.1:54696 as ESP8266Client (p2, c1, k15).
+1670462827: Client ESP8266Client has exceeded timeout, disconnecting.
+1670462864: New connection from 172.21.0.1:54698 on port 1883.
+1670462864: New client connected from 172.21.0.1:54698 as ESP8266Client (p2, c1, k15).
+1670462893: Client ESP8266Client has exceeded timeout, disconnecting.
+1670463025: New connection from 172.21.0.1:54720 on port 1883.
+1670463025: New client connected from 172.21.0.1:54720 as ESP8266Client (p2, c1, k15).
+1670463049: Client ESP8266Client has exceeded timeout, disconnecting.
+1670463158: New connection from 172.21.0.1:54742 on port 1883.
+1670463158: New client connected from 172.21.0.1:54742 as ESP8266Client (p2, c1, k15).
+1670463205: Client ESP8266Client has exceeded timeout, disconnecting.
+1670463274: New connection from 172.21.0.1:54744 on port 1883.
+1670463274: New client connected from 172.21.0.1:54744 as ESP8266Client (p2, c1, k15).
+1670463325: Client ESP8266Client has exceeded timeout, disconnecting.
+1670463499: New connection from 172.21.0.1:54746 on port 1883.
+1670463499: New client connected from 172.21.0.1:54746 as ESP8266Client (p2, c1, k15).
+1670463625: Client ESP8266Client has exceeded timeout, disconnecting.
+1670463725: New connection from 172.21.0.1:54748 on port 1883.
+1670463725: New client connected from 172.21.0.1:54748 as ESP8266Client (p2, c1, k15).
+1670463753: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670463762: Client ESP8266Client has exceeded timeout, disconnecting.
+1670463898: New connection from 172.21.0.1:54750 on port 1883.
+1670463898: New client connected from 172.21.0.1:54750 as ESP8266Client (p2, c1, k15).
+1670463990: Client ESP8266Client has exceeded timeout, disconnecting.
+1670463998: New connection from 172.21.0.1:54752 on port 1883.
+1670463998: New client connected from 172.21.0.1:54752 as ESP8266Client (p2, c1, k15).
+1670464044: Client ESP8266Client has exceeded timeout, disconnecting.
+1670464105: New connection from 172.21.0.1:54754 on port 1883.
+1670464105: New client connected from 172.21.0.1:54754 as ESP8266Client (p2, c1, k15).
+1670464129: Client ESP8266Client has exceeded timeout, disconnecting.
+1670464313: New connection from 172.21.0.1:54756 on port 1883.
+1670464313: New client connected from 172.21.0.1:54756 as ESP8266Client (p2, c1, k15).
+1670464374: Client ESP8266Client has exceeded timeout, disconnecting.
+1670464422: New connection from 172.21.0.1:54758 on port 1883.
+1670464422: New client connected from 172.21.0.1:54758 as ESP8266Client (p2, c1, k15).
+1670464483: New connection from 172.21.0.1:54760 on port 1883.
+1670464483: Client ESP8266Client already connected, closing old connection.
+1670464483: New client connected from 172.21.0.1:54760 as ESP8266Client (p2, c1, k15).
+1670464530: Client ESP8266Client has exceeded timeout, disconnecting.
+1670464593: New connection from 172.21.0.1:54762 on port 1883.
+1670464593: New client connected from 172.21.0.1:54762 as ESP8266Client (p2, c1, k15).
+1670464656: Client ESP8266Client has exceeded timeout, disconnecting.
+1670464673: New connection from 172.21.0.1:54766 on port 1883.
+1670464673: New client connected from 172.21.0.1:54766 as ESP8266Client (p2, c1, k15).
+1670464698: Client ESP8266Client has exceeded timeout, disconnecting.
+1670464739: New connection from 172.21.0.1:54786 on port 1883.
+1670464739: New client connected from 172.21.0.1:54786 as ESP8266Client (p2, c1, k15).
+1670464783: Client ESP8266Client has exceeded timeout, disconnecting.
+1670464862: New connection from 172.21.0.1:54790 on port 1883.
+1670464862: New client connected from 172.21.0.1:54790 as ESP8266Client (p2, c1, k15).
+1670465035: Client ESP8266Client has exceeded timeout, disconnecting.
+1670465554: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670467355: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670468212: New connection from 172.21.0.1:54850 on port 1883.
+1670468212: New client connected from 172.21.0.1:54850 as ESP8266Client (p2, c1, k15).
+1670468275: Client ESP8266Client has exceeded timeout, disconnecting.
+1670468334: New connection from 172.21.0.1:54872 on port 1883.
+1670468334: New client connected from 172.21.0.1:54872 as ESP8266Client (p2, c1, k15).
+1670468376: Client ESP8266Client has exceeded timeout, disconnecting.
+1670469156: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670470957: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670472757: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670474555: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670476356: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670476478: mosquitto version 2.0.15 terminating
+1670476478: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670476518: mosquitto version 2.0.15 starting
+1670476518: Config loaded from /mosquitto/config/mosquitto.conf.
+1670476518: Opening ipv4 listen socket on port 1883.
+1670476518: Opening ipv6 listen socket on port 1883.
+1670476518: mosquitto version 2.0.15 running
+1670476518: New connection from 172.21.0.1:55054 on port 1883.
+1670476518: New client connected from 172.21.0.1:55054 as mqtt-explorer-30aee6d4 (p2, c1, k60).
+1670476523: mosquitto version 2.0.15 terminating
+1670476523: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670476636: mosquitto version 2.0.15 starting
+1670476636: Config loaded from /mosquitto/config/mosquitto.conf.
+1670476636: Opening ipv4 listen socket on port 1883.
+1670476636: Opening ipv6 listen socket on port 1883.
+1670476636: mosquitto version 2.0.15 running
+1670476636: New connection from 172.18.0.1:55060 on port 1883.
+1670476636: New client connected from 172.18.0.1:55060 as mqtt-explorer-30aee6d4 (p2, c1, k60).
+1670476665: New connection from 172.18.0.1:55072 on port 1883.
+1670476666: New client connected from 172.18.0.1:55072 as d39f7856-d744-4ee7-bf7e-e94e4b772347 (p2, c1, k60).
+1670476686: mosquitto version 2.0.15 terminating
+1670476686: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670476737: mosquitto version 2.0.15 starting
+1670476737: Config loaded from /mosquitto/config/mosquitto.conf.
+1670476737: Opening ipv4 listen socket on port 1883.
+1670476737: Opening ipv6 listen socket on port 1883.
+1670476737: mosquitto version 2.0.15 running
+1670476738: New connection from 172.19.0.1:55074 on port 1883.
+1670476738: New client connected from 172.19.0.1:55074 as mqtt-explorer-30aee6d4 (p2, c1, k60).
+1670476749: New connection from 172.19.0.1:55076 on port 1883.
+1670476750: New client connected from 172.19.0.1:55076 as d39f7856-d744-4ee7-bf7e-e94e4b772347 (p2, c1, k60).
+1670476772: mosquitto version 2.0.15 terminating
+1670476772: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670477084: mosquitto version 2.0.15 starting
+1670477084: Config loaded from /mosquitto/config/mosquitto.conf.
+1670477084: Opening ipv4 listen socket on port 1883.
+1670477084: Opening ipv6 listen socket on port 1883.
+1670477084: mosquitto version 2.0.15 running
+1670477100: New connection from 172.21.0.1:55090 on port 1883.
+1670477100: New client connected from 172.21.0.1:55090 as d39f7856-d744-4ee7-bf7e-e94e4b772347 (p2, c1, k60).
+1670477148: New connection from 172.21.0.1:55106 on port 1883.
+1670477148: New client connected from 172.21.0.1:55106 as 2db2aa03-e664-4b13-b0b2-ec2aa5f26a7b (p2, c1, k60).
+1670477171: mosquitto version 2.0.15 terminating
+1670477171: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670477188: mosquitto version 2.0.15 starting
+1670477188: Config loaded from /mosquitto/config/mosquitto.conf.
+1670477188: Opening ipv4 listen socket on port 1883.
+1670477188: Opening ipv6 listen socket on port 1883.
+1670477188: mosquitto version 2.0.15 running
+1670477188: New connection from 172.22.0.1:55122 on port 1883.
+1670477188: New connection from 172.22.0.1:55120 on port 1883.
+1670477188: New client connected from 172.22.0.1:55122 as 2db2aa03-e664-4b13-b0b2-ec2aa5f26a7b (p2, c1, k60).
+1670477188: New client connected from 172.22.0.1:55120 as d39f7856-d744-4ee7-bf7e-e94e4b772347 (p2, c1, k60).
+1670478464: mosquitto version 2.0.15 terminating
+1670478464: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670478486: mosquitto version 2.0.15 starting
+1670478486: Config loaded from /mosquitto/config/mosquitto.conf.
+1670478486: Opening ipv4 listen socket on port 1883.
+1670478486: Opening ipv6 listen socket on port 1883.
+1670478486: mosquitto version 2.0.15 running
+1670478487: New connection from 172.23.0.1:55156 on port 1883.
+1670478487: New client connected from 172.23.0.1:55156 as d39f7856-d744-4ee7-bf7e-e94e4b772347 (p1, c1, k60).
+1670478493: New connection from 172.23.0.1:55164 on port 1883.
+1670478493: New client connected from 172.23.0.1:55164 as 2db2aa03-e664-4b13-b0b2-ec2aa5f26a7b (p2, c1, k60).
+1670478697: mosquitto version 2.0.15 terminating
+1670478697: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670478726: mosquitto version 2.0.15 starting
+1670478726: Config loaded from /mosquitto/config/mosquitto.conf.
+1670478726: Opening ipv4 listen socket on port 1883.
+1670478726: Opening ipv6 listen socket on port 1883.
+1670478726: mosquitto version 2.0.15 running
+1670478726: New connection from 172.24.0.1:55174 on port 1883.
+1670478726: New client connected from 172.24.0.1:55174 as 2db2aa03-e664-4b13-b0b2-ec2aa5f26a7b (p2, c1, k60).
+1670478752: New connection from 172.24.0.1:55176 on port 1883.
+1670478752: New client connected from 172.24.0.1:55176 as d39f7856-d744-4ee7-bf7e-e94e4b772347 (p2, c1, k60).
+1670479243: mosquitto version 2.0.15 terminating
+1670479243: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670479258: mosquitto version 2.0.15 starting
+1670479258: Config loaded from /mosquitto/config/mosquitto.conf.
+1670479258: Opening ipv4 listen socket on port 1883.
+1670479258: Opening ipv6 listen socket on port 1883.
+1670479258: mosquitto version 2.0.15 running
+1670479258: New connection from 172.25.0.1:55222 on port 1883.
+1670479259: New client connected from 172.25.0.1:55222 as d39f7856-d744-4ee7-bf7e-e94e4b772347 (p2, c1, k60).
+1670479263: New connection from 172.25.0.1:55224 on port 1883.
+1670479263: New client connected from 172.25.0.1:55224 as 2db2aa03-e664-4b13-b0b2-ec2aa5f26a7b (p2, c1, k60).
+1670480503: New connection from 172.25.0.1:55276 on port 1883.
+1670480503: New client connected from 172.25.0.1:55276 as mqtt-explorer-30aee6d4 (p2, c1, k60).
+1670480529: New connection from 172.25.0.1:55278 on port 1883.
+1670480529: New client connected from 172.25.0.1:55278 as ESP8266Client (p2, c1, k15).
+1670480565: Client ESP8266Client has exceeded timeout, disconnecting.
+1670480655: mosquitto version 2.0.15 terminating
+1670480655: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670480672: mosquitto version 2.0.15 starting
+1670480672: Config loaded from /mosquitto/config/mosquitto.conf.
+1670480672: Opening ipv4 listen socket on port 1883.
+1670480672: Opening ipv6 listen socket on port 1883.
+1670480672: mosquitto version 2.0.15 running
+1670480672: New connection from 172.26.0.1:55280 on port 1883.
+1670480672: New client connected from 172.26.0.1:55280 as mqtt-explorer-30aee6d4 (p2, c1, k60).
+1670480674: New connection from 172.26.0.1:55282 on port 1883.
+1670480674: New client connected from 172.26.0.1:55282 as d39f7856-d744-4ee7-bf7e-e94e4b772347 (p2, c1, k60).
+1670480684: New connection from 172.26.0.1:55284 on port 1883.
+1670480684: New client connected from 172.26.0.1:55284 as 2db2aa03-e664-4b13-b0b2-ec2aa5f26a7b (p2, c1, k60).
+1670481116: New connection from 172.26.0.1:55330 on port 1883.
+1670481116: New client connected from 172.26.0.1:55330 as ESP8266Client (p2, c1, k15).
+1670481261: Client ESP8266Client disconnected due to malformed packet.
+1670481294: Client d39f7856-d744-4ee7-bf7e-e94e4b772347 closed its connection.
+1670481294: Client 2db2aa03-e664-4b13-b0b2-ec2aa5f26a7b closed its connection.
+1670481308: New connection from 172.26.0.1:55354 on port 1883.
+1670481308: New client connected from 172.26.0.1:55354 as 0b26d302-99e4-43d2-88c6-6758829b7c4e (p2, c1, k60).
+1670481309: New connection from 172.26.0.1:55356 on port 1883.
+1670481309: New client connected from 172.26.0.1:55356 as e7ce14cc-fced-4adb-85da-9dbdcaba271e (p2, c1, k60).
+1670481400: New connection from 172.26.0.1:55358 on port 1883.
+1670481400: New client connected from 172.26.0.1:55358 as ESP8266Client (p2, c1, k15).
+1670481540: New connection from 172.26.0.1:55360 on port 1883.
+1670481540: Client ESP8266Client already connected, closing old connection.
+1670481540: New client connected from 172.26.0.1:55360 as ESP8266Client (p2, c1, k15).
+1670481565: Client ESP8266Client has exceeded timeout, disconnecting.
+1670481904: Client 0b26d302-99e4-43d2-88c6-6758829b7c4e closed its connection.
+1670481904: Client e7ce14cc-fced-4adb-85da-9dbdcaba271e closed its connection.
+1670481943: New connection from 172.26.0.1:55384 on port 1883.
+1670481944: New client connected from 172.26.0.1:55384 as e7cfef7a-634a-48b5-97b1-39b1db8decbf (p2, c1, k60).
+1670481944: New connection from 172.26.0.1:55386 on port 1883.
+1670481944: New client connected from 172.26.0.1:55386 as 626de2e8-0faa-4bca-84eb-d6f3f6e0099a (p2, c1, k60).
+1670481961: New connection from 172.26.0.1:55388 on port 1883.
+1670481961: New client connected from 172.26.0.1:55388 as ESP8266Client (p2, c1, k15).
+1670482008: New connection from 172.26.0.1:55390 on port 1883.
+1670482009: Client ESP8266Client already connected, closing old connection.
+1670482009: New client connected from 172.26.0.1:55390 as ESP8266Client (p2, c1, k15).
+1670482039: Client ESP8266Client has exceeded timeout, disconnecting.
+1670482148: New connection from 172.26.0.1:55398 on port 1883.
+1670482148: New client connected from 172.26.0.1:55398 as ESP8266Client (p2, c1, k15).
+1670482201: Client ESP8266Client has exceeded timeout, disconnecting.
+1670482270: New connection from 172.26.0.1:55464 on port 1883.
+1670482270: New client connected from 172.26.0.1:55464 as ESP8266Client (p2, c1, k15).
+1670482315: Client ESP8266Client has exceeded timeout, disconnecting.
+1670482318: New connection from 172.26.0.1:55498 on port 1883.
+1670482318: New client connected from 172.26.0.1:55498 as ESP8266Client (p2, c1, k15).
+1670482319: Client ESP8266Client disconnected due to malformed packet.
+1670482472: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670482530: New connection from 172.26.0.1:55520 on port 1883.
+1670482530: New client connected from 172.26.0.1:55520 as ESP8266Client (p2, c1, k15).
+1670482530: Client ESP8266Client disconnected due to malformed packet.
+1670482557: New connection from 172.26.0.1:55522 on port 1883.
+1670482557: New client connected from 172.26.0.1:55522 as ESP8266Client (p2, c1, k15).
+1670482557: Client ESP8266Client disconnected due to malformed packet.
+1670482982: New connection from 172.26.0.1:55524 on port 1883.
+1670482982: New client connected from 172.26.0.1:55524 as ESP8266Client (p2, c1, k15).
+1670483005: Client ESP8266Client has exceeded timeout, disconnecting.
+1670483034: New connection from 172.26.0.1:55526 on port 1883.
+1670483034: New client connected from 172.26.0.1:55526 as ESP8266Client (p2, c1, k15).
+1670483082: Client ESP8266Client disconnected due to malformed packet.
+1670483187: New connection from 172.26.0.1:55528 on port 1883.
+1670483187: New client connected from 172.26.0.1:55528 as ESP8266Client (p2, c1, k15).
+1670483208: New connection from 172.26.0.1:55530 on port 1883.
+1670483208: Client ESP8266Client already connected, closing old connection.
+1670483208: New client connected from 172.26.0.1:55530 as ESP8266Client (p2, c1, k15).
+1670483213: Client ESP8266Client disconnected due to malformed packet.
+1670483342: New connection from 172.26.0.1:55532 on port 1883.
+1670483342: New client connected from 172.26.0.1:55532 as ESP8266Client (p2, c1, k15).
+1670483425: Client ESP8266Client has exceeded timeout, disconnecting.
+1670483440: New connection from 172.26.0.1:55534 on port 1883.
+1670483440: New client connected from 172.26.0.1:55534 as ESP8266Client (p2, c1, k15).
+1670483489: Client ESP8266Client disconnected due to malformed packet.
+1670483589: New connection from 172.26.0.1:55536 on port 1883.
+1670483589: New client connected from 172.26.0.1:55536 as ESP8266Client (p2, c1, k15).
+1670483595: Client ESP8266Client disconnected due to malformed packet.
+1670483635: New connection from 172.26.0.1:55538 on port 1883.
+1670483635: New client connected from 172.26.0.1:55538 as ESP8266Client (p2, c1, k15).
+1670483636: Client ESP8266Client disconnected due to malformed packet.
+1670483709: New connection from 172.26.0.1:55550 on port 1883.
+1670483709: New client connected from 172.26.0.1:55550 as ESP8266Client (p2, c1, k15).
+1670483731: Client ESP8266Client has exceeded timeout, disconnecting.
+1670483743: New connection from 172.26.0.1:55562 on port 1883.
+1670483743: New client connected from 172.26.0.1:55562 as ESP8266Client (p2, c1, k15).
+1670483936: New connection from 172.26.0.1:55564 on port 1883.
+1670483936: Client ESP8266Client already connected, closing old connection.
+1670483936: New client connected from 172.26.0.1:55564 as ESP8266Client (p2, c1, k15).
+1670483997: New connection from 172.26.0.1:55566 on port 1883.
+1670483997: Client ESP8266Client already connected, closing old connection.
+1670483997: New client connected from 172.26.0.1:55566 as ESP8266Client (p2, c1, k15).
+1670484067: Client ESP8266Client has exceeded timeout, disconnecting.
+1670484070: New connection from 172.26.0.1:55642 on port 1883.
+1670484070: New client connected from 172.26.0.1:55642 as ESP8266Client (p2, c1, k15).
+1670484098: Client mqtt-explorer-30aee6d4 disconnected.
+1670484126: Client e7cfef7a-634a-48b5-97b1-39b1db8decbf closed its connection.
+1670484126: Client 626de2e8-0faa-4bca-84eb-d6f3f6e0099a closed its connection.
+1670510197: mosquitto version 2.0.15 starting
+1670510197: Config loaded from /mosquitto/config/mosquitto.conf.
+1670510197: Opening ipv4 listen socket on port 1883.
+1670510197: Opening ipv6 listen socket on port 1883.
+1670510197: mosquitto version 2.0.15 running
+1670511998: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670513799: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670514054: New connection from 172.26.0.1:43038 on port 1883.
+1670514054: New client connected from 172.26.0.1:43038 as ESP8266Client (p2, c1, k15).
+1670514079: Client ESP8266Client has exceeded timeout, disconnecting.
+1670514097: New connection from 172.26.0.1:43040 on port 1883.
+1670514097: New client connected from 172.26.0.1:43040 as ESP8266Client1 (p2, c1, k15).
+1670514116: New connection from 172.26.0.1:43042 on port 1883.
+1670514116: New client connected from 172.26.0.1:43042 as mqtt-explorer-30aee6d4 (p2, c1, k60).
+1670514179: New connection from 172.26.0.1:43044 on port 1883.
+1670514179: Client ESP8266Client1 already connected, closing old connection.
+1670514179: New client connected from 172.26.0.1:43044 as ESP8266Client1 (p2, c1, k15).
+1670514235: Client ESP8266Client1 has exceeded timeout, disconnecting.
+1670514290: New connection from 172.26.0.1:43070 on port 1883.
+1670514290: New client connected from 172.26.0.1:43070 as 26b234b4-40d5-43b4-8673-511b3463336d (p2, c1, k60).
+1670514291: New connection from 172.26.0.1:43072 on port 1883.
+1670514291: New client connected from 172.26.0.1:43072 as 125c5ffd-eff1-4fd1-a049-465a9779fa04 (p2, c1, k60).
+1670514577: New connection from 172.26.0.1:43094 on port 1883.
+1670514577: New client connected from 172.26.0.1:43094 as ESP8266ClientEmissor (p2, c1, k15).
+1670514613: Client ESP8266ClientEmissor has exceeded timeout, disconnecting.
+1670514756: Client 26b234b4-40d5-43b4-8673-511b3463336d closed its connection.
+1670514756: Client 125c5ffd-eff1-4fd1-a049-465a9779fa04 closed its connection.
+1670514774: New connection from 172.26.0.1:43126 on port 1883.
+1670514774: New client connected from 172.26.0.1:43126 as 71cfb5ca-9d6b-4441-b080-137b448546c9 (p2, c1, k60).
+1670514774: New connection from 172.26.0.1:43128 on port 1883.
+1670514775: New client connected from 172.26.0.1:43128 as 6300a7f1-df7b-4f90-a393-851e7d9e297f (p2, c1, k60).
+1670514781: New connection from 172.26.0.1:43130 on port 1883.
+1670514781: New client connected from 172.26.0.1:43130 as ESP8266ClientABC (p2, c1, k15).
+1670514847: New connection from 172.26.0.1:43202 on port 1883.
+1670514847: New client connected from 172.26.0.1:43202 as ESP8266ClientRecept (p2, c1, k15).
+1670514889: Client ESP8266ClientRecept has exceeded timeout, disconnecting.
+1670514895: Client ESP8266ClientABC has exceeded timeout, disconnecting.
+1670515050: New connection from 172.26.0.1:43258 on port 1883.
+1670515050: New client connected from 172.26.0.1:43258 as ESP8266ClientABC (p2, c1, k15).
+1670515071: New connection from 172.26.0.1:43270 on port 1883.
+1670515071: New client connected from 172.26.0.1:43270 as ESP8266ClientRecept (p2, c1, k15).
+1670515117: Client ESP8266ClientABC has exceeded timeout, disconnecting.
+1670515249: Client ESP8266ClientRecept has exceeded timeout, disconnecting.
+1670515253: New connection from 172.26.0.1:43294 on port 1883.
+1670515253: New client connected from 172.26.0.1:43294 as ESP8266ClientABC (p2, c1, k15).
+1670515300: New connection from 172.26.0.1:43360 on port 1883.
+1670515300: New client connected from 172.26.0.1:43360 as ESP8266ClientRecept (p2, c1, k15).
+1670515447: Client ESP8266ClientRecept has exceeded timeout, disconnecting.
+1670515453: Client ESP8266ClientABC has exceeded timeout, disconnecting.
+1670515600: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670515678: New connection from 172.26.0.1:43678 on port 1883.
+1670515678: New client connected from 172.26.0.1:43678 as ESP8266ClientABC (p2, c1, k15).
+1670515688: New connection from 172.26.0.1:43680 on port 1883.
+1670515688: New client connected from 172.26.0.1:43680 as ESP8266ClientRecept (p2, c1, k15).
+1670515801: Client ESP8266ClientRecept has exceeded timeout, disconnecting.
+1670515807: Client ESP8266ClientABC has exceeded timeout, disconnecting.
+1670517401: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670519202: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670521003: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670522290: New connection from 172.26.0.1:44038 on port 1883.
+1670522290: New client connected from 172.26.0.1:44038 as ESP8266ClientRecept (p2, c1, k15).
+1670522398: New connection from 172.26.0.1:44040 on port 1883.
+1670522398: New client connected from 172.26.0.1:44040 as ESP8266ClientABC (p2, c1, k15).
+1670522437: Client ESP8266ClientRecept has exceeded timeout, disconnecting.
+1670522437: Client ESP8266ClientABC has exceeded timeout, disconnecting.
+1670522560: New connection from 172.26.0.1:44062 on port 1883.
+1670522560: New client connected from 172.26.0.1:44062 as ESP8266ClientRecept (p2, c1, k15).
+1670522561: Client ESP8266ClientRecept disconnected due to malformed packet.
+1670522563: New connection from 172.26.0.1:44064 on port 1883.
+1670522563: New client connected from 172.26.0.1:44064 as ESP8266ClientABC (p2, c1, k15).
+1670522599: Client ESP8266ClientABC has exceeded timeout, disconnecting.
+1670522804: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670522810: New connection from 172.26.0.1:44076 on port 1883.
+1670522810: New client connected from 172.26.0.1:44076 as ESP8266ClientABC (p2, c1, k15).
+1670522850: New connection from 172.26.0.1:44098 on port 1883.
+1670522850: New client connected from 172.26.0.1:44098 as clientABC (p2, c1, k15).
+1670522850: Client clientABC disconnected due to malformed packet.
+1670522875: Client ESP8266ClientABC has exceeded timeout, disconnecting.
+1670523491: New connection from 172.26.0.1:44126 on port 1883.
+1670523491: New client connected from 172.26.0.1:44126 as ClientEmissor (p2, c1, k15).
+1670523499: New connection from 172.26.0.1:44140 on port 1883.
+1670523499: New client connected from 172.26.0.1:44140 as ClientReceptor (p2, c1, k15).
+1670523583: Client ClientReceptor has exceeded timeout, disconnecting.
+1670523639: New connection from 172.26.0.1:44254 on port 1883.
+1670523639: New client connected from 172.26.0.1:44254 as ESP8266Client1 (p2, c1, k15).
+1670523667: Client ESP8266Client1 has exceeded timeout, disconnecting.
+1670523677: New connection from 172.26.0.1:44268 on port 1883.
+1670523677: New client connected from 172.26.0.1:44268 as ClientReceptor2 (p2, c1, k15).
+1670523787: Client ClientReceptor2 has exceeded timeout, disconnecting.
+1670523794: New connection from 172.26.0.1:44382 on port 1883.
+1670523794: New client connected from 172.26.0.1:44382 as ClientReceptor2 (p2, c1, k15).
+1670523871: Client ClientReceptor2 has exceeded timeout, disconnecting.
+1670523876: New connection from 172.26.0.1:44400 on port 1883.
+1670523876: New client connected from 172.26.0.1:44400 as ClientReceptor2 (p2, c1, k15).
+1670524605: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670526406: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670527177: Client ClientEmissor has exceeded timeout, disconnecting.
+1670527183: Client ClientReceptor2 has exceeded timeout, disconnecting.
+1670528207: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670529159: New connection from 172.26.0.1:45674 on port 1883.
+1670529159: New client connected from 172.26.0.1:45674 as ClientEmissor (p2, c1, k15).
+1670529193: New connection from 172.26.0.1:45724 on port 1883.
+1670529193: New client connected from 172.26.0.1:45724 as ClientReceptor2 (p2, c1, k15).
+1670529415: Client ClientReceptor2 has exceeded timeout, disconnecting.
+1670529439: Client ClientEmissor has exceeded timeout, disconnecting.
+1670530008: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670530546: New connection from 172.26.0.1:45868 on port 1883.
+1670530546: New client connected from 172.26.0.1:45868 as ClientEmissor (p2, c1, k15).
+1670530554: New connection from 172.26.0.1:45870 on port 1883.
+1670530554: New client connected from 172.26.0.1:45870 as ClientReceptor3 (p2, c1, k15).
+1670530682: New connection from 172.26.0.1:45910 on port 1883.
+1670530682: Client ClientEmissor already connected, closing old connection.
+1670530682: New client connected from 172.26.0.1:45910 as ClientEmissor (p2, c1, k15).
+1670530683: New connection from 172.26.0.1:45912 on port 1883.
+1670530683: Client ClientReceptor3 already connected, closing old connection.
+1670530683: New client connected from 172.26.0.1:45912 as ClientReceptor3 (p2, c1, k15).
+1670530743: New connection from 172.26.0.1:45926 on port 1883.
+1670530743: Client ClientReceptor3 already connected, closing old connection.
+1670530743: New client connected from 172.26.0.1:45926 as ClientReceptor3 (p2, c1, k15).
+1670530861: Client ClientReceptor3 has exceeded timeout, disconnecting.
+1670530903: Client ClientEmissor has exceeded timeout, disconnecting.
+1670531049: New connection from 172.26.0.1:45972 on port 1883.
+1670531049: New client connected from 172.26.0.1:45972 as ClientReceptor3 (p2, c1, k15).
+1670531065: New connection from 172.26.0.1:45974 on port 1883.
+1670531065: New client connected from 172.26.0.1:45974 as ClientEmissor (p2, c1, k15).
+1670531479: Client ClientReceptor3 has exceeded timeout, disconnecting.
+1670531500: New connection from 172.26.0.1:46004 on port 1883.
+1670531500: New client connected from 172.26.0.1:46004 as ClientReceptor2 (p2, c1, k15).
+1670531581: Client ClientEmissor has exceeded timeout, disconnecting.
+1670531599: Client ClientReceptor2 has exceeded timeout, disconnecting.
+1670531615: New connection from 172.26.0.1:46052 on port 1883.
+1670531615: New client connected from 172.26.0.1:46052 as ClientReceptor2 (p2, c1, k15).
+1670531658: New connection from 172.26.0.1:46054 on port 1883.
+1670531658: New client connected from 172.26.0.1:46054 as ClientEmissor (p2, c1, k15).
+1670531808: New connection from 172.26.0.1:46140 on port 1883.
+1670531808: Client ClientReceptor2 already connected, closing old connection.
+1670531808: New client connected from 172.26.0.1:46140 as ClientReceptor2 (p2, c1, k15).
+1670531809: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670531858: New connection from 172.26.0.1:46142 on port 1883.
+1670531858: Client ClientReceptor2 already connected, closing old connection.
+1670531858: New client connected from 172.26.0.1:46142 as ClientReceptor2 (p2, c1, k15).
+1670531904: New connection from 172.26.0.1:46144 on port 1883.
+1670531904: Client ClientReceptor2 already connected, closing old connection.
+1670531904: New client connected from 172.26.0.1:46144 as ClientReceptor2 (p2, c1, k15).
+1670531911: Client ClientEmissor has exceeded timeout, disconnecting.
+1670531925: New connection from 172.26.0.1:46146 on port 1883.
+1670531925: New client connected from 172.26.0.1:46146 as ClientEmissor (p2, c1, k15).
+1670531963: New connection from 172.26.0.1:46178 on port 1883.
+1670531963: New client connected from 172.26.0.1:46178 as ClientReceptor3 (p2, c1, k15).
+1670532559: Client ClientEmissor has exceeded timeout, disconnecting.
+1670532565: Client ClientReceptor3 has exceeded timeout, disconnecting.
+1670533238: New connection from 172.26.0.1:46410 on port 1883.
+1670533238: New client connected from 172.26.0.1:46410 as ClientEmissor (p2, c1, k15).
+1670533243: New connection from 172.26.0.1:46412 on port 1883.
+1670533243: New client connected from 172.26.0.1:46412 as ClientReceptor3 (p2, c1, k15).
+1670533561: Client ClientReceptor3 has exceeded timeout, disconnecting.
+1670533610: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670533825: Client ClientEmissor has exceeded timeout, disconnecting.
+1670533831: Client ClientReceptor2 has exceeded timeout, disconnecting.
+1670535008: New connection from 172.26.0.1:46680 on port 1883.
+1670535008: New client connected from 172.26.0.1:46680 as ClientEmissor (p2, c1, k15).
+1670535046: New connection from 172.26.0.1:46702 on port 1883.
+1670535046: New client connected from 172.26.0.1:46702 as ClientReceptor3 (p2, c1, k15).
+1670535264: Client 71cfb5ca-9d6b-4441-b080-137b448546c9 closed its connection.
+1670535264: Client 6300a7f1-df7b-4f90-a393-851e7d9e297f closed its connection.
+1670535283: Client ClientEmissor has exceeded timeout, disconnecting.
+1670535283: Client ClientReceptor3 has exceeded timeout, disconnecting.
+1670535322: New connection from 172.26.0.1:47200 on port 1883.
+1670535322: New client connected from 172.26.0.1:47200 as ed7246ba-d546-4449-8679-e4c4b69dd568 (p2, c1, k60).
+1670535323: New connection from 172.26.0.1:47202 on port 1883.
+1670535323: New client connected from 172.26.0.1:47202 as a3a4fca8-ccf3-455c-adf0-d24768033c23 (p2, c1, k60).
+1670535346: New connection from 172.26.0.1:47204 on port 1883.
+1670535346: New client connected from 172.26.0.1:47204 as ClientEmissor (p2, c1, k15).
+1670535357: New connection from 172.26.0.1:47206 on port 1883.
+1670535357: New client connected from 172.26.0.1:47206 as ClientReceptor3 (p2, c1, k15).
+1670535411: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670535700: New connection from 172.26.0.1:47344 on port 1883.
+1670535700: New client connected from 172.26.0.1:47344 as ClientReceptor2 (p2, c1, k15).
+1670535997: Client ClientReceptor2 has exceeded timeout, disconnecting.
+1670536003: Client ClientEmissor has exceeded timeout, disconnecting.
+1670536003: Client ClientReceptor3 has exceeded timeout, disconnecting.
+1670536670: Client mqtt-explorer-30aee6d4 disconnected.
+1670537212: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670537465: Client ed7246ba-d546-4449-8679-e4c4b69dd568 closed its connection.
+1670537465: Client a3a4fca8-ccf3-455c-adf0-d24768033c23 closed its connection.
+1670539013: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670540814: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670542615: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670639885: mosquitto version 2.0.15 starting
+1670639885: Config loaded from /mosquitto/config/mosquitto.conf.
+1670639885: Opening ipv4 listen socket on port 1883.
+1670639885: Opening ipv6 listen socket on port 1883.
+1670639885: mosquitto version 2.0.15 running
+1670641686: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670643487: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670645288: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670647086: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670648887: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670650688: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670652489: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670654290: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670686121: mosquitto version 2.0.15 starting
+1670686121: Config loaded from /mosquitto/config/mosquitto.conf.
+1670686121: Opening ipv4 listen socket on port 1883.
+1670686121: Opening ipv6 listen socket on port 1883.
+1670686121: mosquitto version 2.0.15 running
+1670687921: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670689723: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670691524: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670693325: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670695126: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670696927: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670698727: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670700529: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670702330: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670704130: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670717532: mosquitto version 2.0.15 starting
+1670717532: Config loaded from /mosquitto/config/mosquitto.conf.
+1670717532: Opening ipv4 listen socket on port 1883.
+1670717532: Opening ipv6 listen socket on port 1883.
+1670717532: mosquitto version 2.0.15 running
+1670719332: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670721133: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670722932: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670724733: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670726534: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670728335: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670730136: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670731937: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670733738: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670735539: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670737340: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670739141: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670784421: mosquitto version 2.0.15 starting
+1670784421: Config loaded from /mosquitto/config/mosquitto.conf.
+1670784421: Opening ipv4 listen socket on port 1883.
+1670784421: Opening ipv6 listen socket on port 1883.
+1670784421: mosquitto version 2.0.15 running
+1670786221: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670788022: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670789823: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670791625: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670793425: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670793725: mosquitto version 2.0.15 terminating
+1670793725: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670801657: mosquitto version 2.0.15 starting
+1670801657: Config loaded from /mosquitto/config/mosquitto.conf.
+1670801657: Opening ipv4 listen socket on port 1883.
+1670801657: Opening ipv6 listen socket on port 1883.
+1670801657: mosquitto version 2.0.15 running
+1670803458: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670805259: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670807060: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670808861: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670810524: mosquitto version 2.0.15 terminating
+1670810524: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670822041: mosquitto version 2.0.15 starting
+1670822041: Config loaded from /mosquitto/config/mosquitto.conf.
+1670822041: Opening ipv4 listen socket on port 1883.
+1670822041: Opening ipv6 listen socket on port 1883.
+1670822041: mosquitto version 2.0.15 running
+1670823842: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670825643: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670827444: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670880644: mosquitto version 2.0.15 starting
+1670880644: Config loaded from /mosquitto/config/mosquitto.conf.
+1670880644: Opening ipv4 listen socket on port 1883.
+1670880644: Opening ipv6 listen socket on port 1883.
+1670880644: mosquitto version 2.0.15 running
+1670882445: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670884246: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670886047: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670887847: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670888414: mosquitto version 2.0.15 terminating
+1670888414: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670888487: mosquitto version 2.0.15 starting
+1670888487: Config loaded from /mosquitto/config/mosquitto.conf.
+1670888487: Opening ipv4 listen socket on port 1883.
+1670888487: Opening ipv6 listen socket on port 1883.
+1670888487: mosquitto version 2.0.15 running
+1670890287: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670892087: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670892089: New connection from 172.18.0.1:50692 on port 1883.
+1670892089: New client connected from 172.18.0.1:50692 as ClientReceptor2 (p2, c1, k15).
+1670892115: Client ClientReceptor2 has exceeded timeout, disconnecting.
+1670893334: mosquitto version 2.0.15 terminating
+1670893334: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670909506: mosquitto version 2.0.15 starting
+1670909506: Config loaded from /mosquitto/config/mosquitto.conf.
+1670909506: Opening ipv4 listen socket on port 1883.
+1670909506: Opening ipv6 listen socket on port 1883.
+1670909506: mosquitto version 2.0.15 running
+1670911307: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1671157863: mosquitto version 2.0.15 starting
+1671157863: Config loaded from /mosquitto/config/mosquitto.conf.
+1671157863: Opening ipv4 listen socket on port 1883.
+1671157863: Opening ipv6 listen socket on port 1883.
+1671157863: mosquitto version 2.0.15 running
+1671159199: mosquitto version 2.0.15 terminating
+1671159199: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1671220938: mosquitto version 2.0.15 starting
+1671220938: Config loaded from /mosquitto/config/mosquitto.conf.
+1671220938: Opening ipv4 listen socket on port 1883.
+1671220938: Opening ipv6 listen socket on port 1883.
+1671220938: mosquitto version 2.0.15 running
+1671221048: mosquitto version 2.0.15 terminating
+1671221048: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1671221067: mosquitto version 2.0.15 starting
+1671221067: Config loaded from /mosquitto/config/mosquitto.conf.
+1671221067: Opening ipv4 listen socket on port 1883.
+1671221067: Opening ipv6 listen socket on port 1883.
+1671221067: mosquitto version 2.0.15 running
+1671221532: New connection from 172.18.0.1:36964 on port 1883.
+1671221532: New client connected from 172.18.0.1:36964 as b0cb3a73-cfb7-4769-9bd4-4bea06aac33f (p2, c1, k60).
+1671221533: New connection from 172.18.0.1:36966 on port 1883.
+1671221533: New client connected from 172.18.0.1:36966 as a3c981fe-719a-401d-8b86-a274d406d52d (p2, c1, k60).
+1671222138: New connection from 172.18.0.1:36972 on port 1883.
+1671222138: New client connected from 172.18.0.1:36972 as ESP8266Client (p2, c1, k15).
+1671222160: New connection from 172.18.0.1:36974 on port 1883.
+1671222160: New client connected from 172.18.0.1:36974 as mqtt-explorer-30aee6d4 (p2, c1, k60).
+1671222165: Client ESP8266Client has exceeded timeout, disconnecting.
+1671222181: New connection from 172.18.0.1:36976 on port 1883.
+1671222181: New client connected from 172.18.0.1:36976 as ESP8266Client (p2, c1, k15).
+1671222207: Client ESP8266Client has exceeded timeout, disconnecting.
+1671222442: New connection from 172.18.0.1:36978 on port 1883.
+1671222442: New client connected from 172.18.0.1:36978 as ESP8266Client (p2, c1, k15).
+1671222483: Client ESP8266Client has exceeded timeout, disconnecting.
+1671222648: New connection from 172.18.0.1:36980 on port 1883.
+1671222648: New client connected from 172.18.0.1:36980 as ESP8266Client2 (p2, c1, k15).
+1671222673: New connection from 172.18.0.1:36982 on port 1883.
+1671222673: New client connected from 172.18.0.1:36982 as ESP8266Client (p2, c1, k15).
+1671222705: Client ESP8266Client has exceeded timeout, disconnecting.
+1671222814: New connection from 172.18.0.1:36984 on port 1883.
+1671222814: New client connected from 172.18.0.1:36984 as ESP8266Client (p2, c1, k15).
+1671222822: Client ESP8266Client2 disconnected due to malformed packet.
+1671222855: Client ESP8266Client has exceeded timeout, disconnecting.
+1671222868: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1671222953: Client b0cb3a73-cfb7-4769-9bd4-4bea06aac33f closed its connection.
+1671222953: Client a3c981fe-719a-401d-8b86-a274d406d52d closed its connection.
+1671222965: mosquitto version 2.0.15 terminating
+1671222965: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1671222985: mosquitto version 2.0.15 starting
+1671222985: Config loaded from /mosquitto/config/mosquitto.conf.
+1671222985: Opening ipv4 listen socket on port 1883.
+1671222985: Opening ipv6 listen socket on port 1883.
+1671222985: mosquitto version 2.0.15 running
+1671222985: New connection from 172.19.0.1:37004 on port 1883.
+1671222985: New client connected from 172.19.0.1:37004 as mqtt-explorer-30aee6d4 (p2, c1, k60).
+1671223011: New connection from 172.19.0.1:37030 on port 1883.
+1671223012: New client connected from 172.19.0.1:37030 as 68fd6b78-a7a3-4340-9fd8-b9bd88cd9e1d (p2, c1, k60).
+1671223012: New connection from 172.19.0.1:37032 on port 1883.
+1671223012: New client connected from 172.19.0.1:37032 as 9717f607-77a9-4296-9949-47c4e838a9bd (p2, c1, k60).
+1671224210: Client 9717f607-77a9-4296-9949-47c4e838a9bd closed its connection.
+1671224210: Client 68fd6b78-a7a3-4340-9fd8-b9bd88cd9e1d closed its connection.
+1671224218: mosquitto version 2.0.15 terminating
+1671224218: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1671224241: mosquitto version 2.0.15 starting
+1671224241: Config loaded from /mosquitto/config/mosquitto.conf.
+1671224241: Opening ipv4 listen socket on port 1883.
+1671224241: Opening ipv6 listen socket on port 1883.
+1671224241: mosquitto version 2.0.15 running
+1671224242: New connection from 172.20.0.1:37062 on port 1883.
+1671224242: New client connected from 172.20.0.1:37062 as mqtt-explorer-30aee6d4 (p2, c1, k60).
+1671224278: New connection from 172.20.0.1:37106 on port 1883.
+1671224279: New client connected from 172.20.0.1:37106 as 84bb863a-b17e-4f08-88dd-1108bedde1dc (p2, c1, k60).
+1671224279: New connection from 172.20.0.1:37108 on port 1883.
+1671224279: New client connected from 172.20.0.1:37108 as ed9e4369-0287-4e13-9e35-6808abae1473 (p2, c1, k60).
+1671224485: New connection from 172.20.0.1:37114 on port 1883.
+1671224485: New client connected from 172.20.0.1:37114 as client:C8:2B:96:2F:C7:11 (p2, c1, k15).
+1671224506: New connection from 172.20.0.1:37116 on port 1883.
+1671224506: New client connected from 172.20.0.1:37116 as client:C8:2B:96:2F:A2:DE (p2, c1, k15).
+1671224667: Client client:C8:2B:96:2F:C7:11 has exceeded timeout, disconnecting.
+1671224743: New connection from 172.20.0.1:37214 on port 1883.
+1671224743: New client connected from 172.20.0.1:37214 as client:C8:2B:96:2F:C7:11 (p2, c1, k15).
+1671224781: Client client:C8:2B:96:2F:C7:11 has exceeded timeout, disconnecting.
+1671225035: Client 84bb863a-b17e-4f08-88dd-1108bedde1dc closed its connection.
+1671225035: Client ed9e4369-0287-4e13-9e35-6808abae1473 closed its connection.
+1671225081: Client client:C8:2B:96:2F:A2:DE has exceeded timeout, disconnecting.
+1671225097: mosquitto version 2.0.15 terminating
+1671225097: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1671225116: mosquitto version 2.0.15 starting
+1671225116: Config loaded from /mosquitto/config/mosquitto.conf.
+1671225116: Opening ipv4 listen socket on port 1883.
+1671225116: Opening ipv6 listen socket on port 1883.
+1671225116: mosquitto version 2.0.15 running
+1671225116: New connection from 172.21.0.1:37248 on port 1883.
+1671225116: New client connected from 172.21.0.1:37248 as mqtt-explorer-30aee6d4 (p2, c1, k60).
+1671225208: New connection from 172.21.0.1:37276 on port 1883.
+1671225209: New client connected from 172.21.0.1:37276 as c08c7739-b1f9-4aef-8b7b-2559476a1552 (p2, c1, k60).
+1671225209: New connection from 172.21.0.1:37278 on port 1883.
+1671225209: New client connected from 172.21.0.1:37278 as 6116dda9-e4ca-4f98-b8e3-0adb26b99ddc (p2, c1, k60).
+1671225362: New connection from 172.21.0.1:37300 on port 1883.
+1671225362: New client connected from 172.21.0.1:37300 as client:C8:2B:96:2F:A2:DE (p2, c1, k15).
+1671225400: New connection from 172.21.0.1:37302 on port 1883.
+1671225400: New client connected from 172.21.0.1:37302 as client:C8:2B:96:2F:C7:11 (p2, c1, k15).
+1671225530: Client client:C8:2B:96:2F:A2:DE has exceeded timeout, disconnecting.
+1671225530: Client client:C8:2B:96:2F:C7:11 has exceeded timeout, disconnecting.
+1671225530: mosquitto version 2.0.15 terminating
+1671225530: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688396673: mosquitto version 2.0.15 starting
+1688396673: Config loaded from /mosquitto/config/mosquitto.conf.
+1688396673: Opening ipv4 listen socket on port 1883.
+1688396673: Opening ipv6 listen socket on port 1883.
+1688396673: mosquitto version 2.0.15 running
+1688398473: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688400274: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688401922: New connection from 172.18.0.1:51572 on port 1883.
+1688401923: New client connected from 172.18.0.1:51572 as 34dfc901-ec3e-4d10-bd39-1ff744a4105d (p2, c1, k60).
+1688401923: New connection from 172.18.0.1:51574 on port 1883.
+1688401924: New client connected from 172.18.0.1:51574 as bd06bd3d-bc38-4f30-ba6d-f88d27c46068 (p2, c1, k60).
+1688402075: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688403200: Client 34dfc901-ec3e-4d10-bd39-1ff744a4105d closed its connection.
+1688403200: Client bd06bd3d-bc38-4f30-ba6d-f88d27c46068 closed its connection.
+1688403876: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688405677: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688407478: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688409032: New connection from 172.18.0.1:52240 on port 1883.
+1688409032: New client connected from 172.18.0.1:52240 as mqtt-explorer-09b3514b (p2, c1, k60).
+1688409241: Client mqtt-explorer-09b3514b disconnected.
+1688409279: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688409283: New connection from 172.18.0.1:52314 on port 1883.
+1688409283: New client connected from 172.18.0.1:52314 as mqtt-explorer-09b3514b (p2, c1, k60).
+1688411080: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688412881: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688413940: Client mqtt-explorer-09b3514b disconnected.
+1688414001: mosquitto version 2.0.15 terminating
+1688414001: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688451135: mosquitto version 2.0.15 starting
+1688451135: Config loaded from /mosquitto/config/mosquitto.conf.
+1688451135: Opening ipv4 listen socket on port 1883.
+1688451135: Opening ipv6 listen socket on port 1883.
+1688451135: mosquitto version 2.0.15 running
+1688505208: mosquitto version 2.0.15 starting
+1688505208: Config loaded from /mosquitto/config/mosquitto.conf.
+1688505208: Opening ipv4 listen socket on port 1883.
+1688505208: Opening ipv6 listen socket on port 1883.
+1688505208: mosquitto version 2.0.15 running
+1688507009: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688507674: mosquitto version 2.0.15 terminating
+1688507674: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688580260: mosquitto version 2.0.15 starting
+1688580260: Config loaded from /mosquitto/config/mosquitto.conf.
+1688580260: Opening ipv4 listen socket on port 1883.
+1688580260: Opening ipv6 listen socket on port 1883.
+1688580260: mosquitto version 2.0.15 running
+1688580345: New connection from 172.18.0.1:34118 on port 1883.
+1688580345: New client connected from 172.18.0.1:34118 as 71a9ebc0-0fb6-4ecb-83bb-4700025f02b0 (p2, c1, k60).
+1688580346: New connection from 172.18.0.1:34120 on port 1883.
+1688580346: New client connected from 172.18.0.1:34120 as a5468bcc-5c6d-4c54-9c4d-bd496e63b8be (p2, c1, k60).
+1688581547: New connection from 172.18.0.1:34166 on port 1883.
+1688581547: New client connected from 172.18.0.1:34166 as mqtt-explorer-48995e44 (p2, c1, k60).
+1688581560: New connection from 172.18.0.1:34168 on port 1883.
+1688581560: New client connected from 172.18.0.1:34168 as client:C8:2B:96:2F:A2:DE (p2, c1, k15).
+1688581615: Client client:C8:2B:96:2F:A2:DE has exceeded timeout, disconnecting.
+1688581638: New connection from 172.18.0.1:34170 on port 1883.
+1688581638: New client connected from 172.18.0.1:34170 as client:C8:2B:96:2F:C7:11 (p2, c1, k15).
+1688582060: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688582896: New connection from 172.18.0.1:34212 on port 1883.
+1688582896: New client connected from 172.18.0.1:34212 as client:C8:2B:96:2F:A2:DE (p2, c1, k15).
+1688583067: Client client:C8:2B:96:2F:C7:11 has exceeded timeout, disconnecting.
+1688583067: Client client:C8:2B:96:2F:A2:DE has exceeded timeout, disconnecting.
+1688583111: New connection from 172.18.0.1:34214 on port 1883.
+1688583111: New client connected from 172.18.0.1:34214 as client:C8:2B:96:2F:C7:11 (p2, c1, k15).
+1688583123: New connection from 172.18.0.1:34216 on port 1883.
+1688583123: New client connected from 172.18.0.1:34216 as client:C8:2B:96:2F:A2:DE (p2, c1, k15).
+1688583184: Client 71a9ebc0-0fb6-4ecb-83bb-4700025f02b0 closed its connection.
+1688583184: Client a5468bcc-5c6d-4c54-9c4d-bd496e63b8be closed its connection.
+1688583196: New connection from 172.18.0.1:34240 on port 1883.
+1688583197: New client connected from 172.18.0.1:34240 as d92fd8d5-e489-4d43-8ab7-e97efb6643c5 (p2, c1, k60).
+1688583197: New connection from 172.18.0.1:34242 on port 1883.
+1688583198: New client connected from 172.18.0.1:34242 as 8443bf0d-739c-4bfc-8c9a-435b4410c76e (p2, c1, k60).
+1688583861: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688584441: Client client:C8:2B:96:2F:C7:11 has exceeded timeout, disconnecting.
+1688584447: Client client:C8:2B:96:2F:A2:DE has exceeded timeout, disconnecting.
+1688584827: New connection from 172.18.0.1:35056 on port 1883.
+1688584827: New client connected from 172.18.0.1:35056 as client:C8:2B:96:2F:C7:11 (p2, c1, k15).
+1688584941: New connection from 172.18.0.1:35058 on port 1883.
+1688584941: New client connected from 172.18.0.1:35058 as client:C8:2B:96:2F:A2:DE (p2, c1, k15).
+1688585662: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688587299: Client d92fd8d5-e489-4d43-8ab7-e97efb6643c5 closed its connection.
+1688587299: Client 8443bf0d-739c-4bfc-8c9a-435b4410c76e closed its connection.
+1688587318: Client mqtt-explorer-48995e44 disconnected.
+1688587363: Client client:C8:2B:96:2F:C7:11 has exceeded timeout, disconnecting.
+1688587363: Client client:C8:2B:96:2F:A2:DE has exceeded timeout, disconnecting.
+1688587463: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1688589264: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1692241059: mosquitto version 2.0.15 starting
+1692241059: Config loaded from /mosquitto/config/mosquitto.conf.
+1692241059: Opening ipv4 listen socket on port 1883.
+1692241059: Opening ipv6 listen socket on port 1883.
+1692241059: mosquitto version 2.0.15 running
+1692241153: New connection from 172.18.0.1:32772 on port 1883.
+1692241153: New client connected from 172.18.0.1:32772 as mqtt-explorer-4c182909 (p2, c1, k60).
+1692241170: Client mqtt-explorer-4c182909 disconnected.
+1692241237: New connection from 172.18.0.1:33422 on port 1883.
+1692241237: New client connected from 172.18.0.1:33422 as mqtt-explorer-4c182909 (p2, c1, k60).
+1692242185: mosquitto version 2.0.15 terminating
+1692242185: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1692242198: mosquitto version 2.0.15 starting
+1692242198: Config loaded from /mosquitto/config/mosquitto.conf.
+1692242198: Opening ipv4 listen socket on port 1883.
+1692242198: Opening ipv6 listen socket on port 1883.
+1692242198: mosquitto version 2.0.15 running
+1692242198: New connection from 172.19.0.1:40908 on port 1883.
+1692242198: New client connected from 172.19.0.1:40908 as mqtt-explorer-4c182909 (p2, c1, k60).
+1692242215: Client mqtt-explorer-4c182909 disconnected.
+1692242217: New connection from 172.19.0.1:41054 on port 1883.
+1692242217: New client connected from 172.19.0.1:41054 as mqtt-explorer-4c182909 (p2, c1, k60).
+1692242223: Client mqtt-explorer-4c182909 disconnected.
+1692242229: mosquitto version 2.0.15 terminating
+1692242229: Saving in-memory database to /mosquitto/data//mosquitto.db.
